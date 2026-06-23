@@ -1,0 +1,226 @@
+[
+  {
+    "id": "f2001c2c-f6f1-4e16-b458-255d7552d38d",
+    "timestamp": "2026-06-22T10:22:05.284227+00:00",
+    "source": "general",
+    "session_id": "55195934-f7a8-49dd-8e93-f5e52a022ed3",
+    "question": "Aapne kya naam hai.",
+    "response": "Mera naam Fship representative hai, aur main aapki shipping solutions mein madad karne ke liye hoon."
+  },
+  {
+    "id": "65dd67c6-6405-4a44-8dc6-c0fc7ada04e4",
+    "timestamp": "2026-06-22T10:22:31.009648+00:00",
+    "source": "general",
+    "session_id": "55195934-f7a8-49dd-8e93-f5e52a022ed3",
+    "question": "Kiss kitna kya kya hai.",
+    "response": "Humare shipping plans aur rates ke baare mein detail dene ke liye main aapko samjha deta hoon."
+  },
+  {
+    "id": "150b6254-8ac3-4182-aa3d-589ef6d72911",
+    "timestamp": "2026-06-22T10:23:09.609125+00:00",
+    "source": "general",
+    "session_id": "55195934-f7a8-49dd-8e93-f5e52a022ed3",
+    "question": "Cancel.",
+    "response": "Aapko kuch aur madad chahiye ya aapko call cancel karna hai?"
+  },
+  {
+    "id": "2429ac44-e1d7-4179-ad5f-ea09f2bfee7c",
+    "timestamp": "2026-06-22T10:24:04.431746+00:00",
+    "source": "general",
+    "session_id": "55195934-f7a8-49dd-8e93-f5e52a022ed3",
+    "question": "Exercise, exercise, exercise. Only exercise.",
+    "response": "Aapka sawaal shipping se related nahi lagta. Kya aap shipping solutions ke baare mein baat karna chahenge?"
+  },
+  {
+    "id": "e0b5afdc-5b15-4713-ae52-dcbb04381905",
+    "timestamp": "2026-06-22T10:25:30.066985+00:00",
+    "source": "general",
+    "session_id": "55195934-f7a8-49dd-8e93-f5e52a022ed3",
+    "question": "Tell her I accept.",
+    "response": "Maaf karein, kya aap apne business ke liye shipping solutions explore kar rahe hain?"
+  },
+  {
+    "id": "3d8131e7-c0da-4673-86f2-8ecfba0f5331",
+    "timestamp": "2026-06-22T10:37:18.554517+00:00",
+    "source": "general",
+    "session_id": "1b06d213-5abe-46d0-92ac-2a6559acc2c9",
+    "question": "Aapka naam kya bataaen.",
+    "response": "Ji Sir/Ma'am, mera naam [Agent Name] hai. Main aapki madad ke liye yahan hoon."
+  },
+  {
+    "id": "9ddb976f-4fcf-4ce0-9947-93e0cf0c9c1a",
+    "timestamp": "2026-06-22T10:37:43.786992+00:00",
+    "source": "general",
+    "session_id": "1b06d213-5abe-46d0-92ac-2a6559acc2c9",
+    "question": "Katrina Kaif, NBSP.",
+    "response": "Maaf kijiye Sir/Ma'am, kya aap apne business ke liye shipping solutions ke baare mein baat karna chahenge?"
+  },
+  {
+    "id": "6dae12c0-2ae1-4e17-9615-f2bd939ffd71",
+    "timestamp": "2026-06-22T10:38:04.180228+00:00",
+    "source": "script",
+    "session_id": "1b06d213-5abe-46d0-92ac-2a6559acc2c9",
+    "question": "Kya aap apne business ke liye shipping solutions explore kar rahe hain?",
+    "response": "Han bataaen tu."
+  },
+  {
+    "id": "6ecd1ae5-354c-4dc8-997a-329a1da9673c",
+    "timestamp": "2026-06-22T10:38:15.344508+00:00",
+    "source": "script",
+    "session_id": "1b06d213-5abe-46d0-92ac-2a6559acc2c9",
+    "question": "Aapke monthly approx orders kitne rehte hain?",
+    "response": "Approximately 2000 to 4000."
+  },
+  {
+    "id": "27f107ea-60a9-4dd1-885a-7b536a55c784",
+    "timestamp": "2026-06-22T10:38:26.406634+00:00",
+    "source": "general",
+    "session_id": "1b06d213-5abe-46d0-92ac-2a6559acc2c9",
+    "question": "Mujhe aapse Ek sawal karna tha.",
+    "response": "Ji bilkul, aap apna sawal puchhiye, main madad karne ke liye yahan hoon."
+  },
+  {
+    "id": "61c52e0b-4d9b-4b7c-9f02-c5f7db15df92",
+    "timestamp": "2026-06-22T10:38:53.826883+00:00",
+    "source": "general",
+    "session_id": "1b06d213-5abe-46d0-92ac-2a6559acc2c9",
+    "question": "Dekhiye usme likha hai usme Ji aaya hai usmein.",
+    "response": "Ma'am, kya aap thoda aur spasht karenge ki aap kis cheez ke baare mein baat kar rahe hain? Main aapki madad karne ke liye yahan hoon."
+  },
+  {
+    "id": "5dbddd57-af5b-4a66-a61e-b75b21a9de2c",
+    "timestamp": "2026-06-23T04:43:07.004909+00:00",
+    "source": "general",
+    "session_id": "b15cc8e4-21b1-4d2f-b643-9e2dc55d8ff0",
+    "question": "Yes, I was exploring it but AAP apna naam phir se bata sakte ho kya?",
+    "response": "Ji bilkul, mera naam Preeti hai."
+  },
+  {
+    "id": "030c7636-ad12-4c0f-8feb-f31c2338fe33",
+    "timestamp": "2026-06-23T04:43:22.871488+00:00",
+    "source": "script",
+    "session_id": "b15cc8e4-21b1-4d2f-b643-9e2dc55d8ff0",
+    "question": "Kya aap apne business ke liye shipping solutions explore kar rahe hain?",
+    "response": "Haan Mein business explorer kar rahi Hoon but AAP he Ki I port ho ya phir dekh insan Hua."
+  },
+  {
+    "id": "fcc0be89-06f3-4241-95b5-4a4ef7373ca8",
+    "timestamp": "2026-06-23T04:43:40.207280+00:00",
+    "source": "general",
+    "session_id": "b15cc8e4-21b1-4d2f-b643-9e2dc55d8ff0",
+    "question": "Mein aapse puchh rahi Hoon Ki AAP Ek insaan Hoon ya phir Ek AI bottu aur noap.",
+    "response": "Ji Ma'am, main ek voice assistant hoon, aapki madad ke liye yahan hoon."
+  },
+  {
+    "id": "e64042a6-d1a4-4652-9b9f-38806c8935de",
+    "timestamp": "2026-06-23T04:43:57.024758+00:00",
+    "source": "script",
+    "session_id": "b15cc8e4-21b1-4d2f-b643-9e2dc55d8ff0",
+    "question": "Aapke monthly approx orders kitne rehte hain?",
+    "response": "Pause 2 to 3000."
+  },
+  {
+    "id": "65c92b7d-7648-46a4-8f93-8dc09bb7dcd4",
+    "timestamp": "2026-06-23T04:44:10.837565+00:00",
+    "source": "script",
+    "session_id": "b15cc8e4-21b1-4d2f-b643-9e2dc55d8ff0",
+    "question": "Abhi shipping ke liye aap kaunsi courier services use kar rahe hain?",
+    "response": "Galaxy transportation use kar rahi Hoon."
+  },
+  {
+    "id": "915e8cce-18b0-448d-a0b8-e1a4e5c0e635",
+    "timestamp": "2026-06-23T04:44:24.378850+00:00",
+    "source": "general",
+    "session_id": "b15cc8e4-21b1-4d2f-b643-9e2dc55d8ff0",
+    "question": "Mujhe AAP Sikh sawar karna hai.",
+    "response": "Ji bilkul, aap apna sawal puchhiye."
+  },
+  {
+    "id": "bd5d9dd6-574c-4051-a3cb-f61cb3407579",
+    "timestamp": "2026-06-23T04:44:41.429086+00:00",
+    "source": "general",
+    "session_id": "b15cc8e4-21b1-4d2f-b643-9e2dc55d8ff0",
+    "question": "Ye matlab aapko train karne ke liye Bola aapne kya kya training Curry hai. Matlab kaise aapko train kiya hai.",
+    "response": "Ma'am, main aapki madad ke liye yahan hoon, aur mujhe is tarah se design kiya gaya hai ki main aapke sawalon ka sahi aur helpful jawab de sakoon."
+  },
+  {
+    "id": "82a7510c-2fcc-45be-9c2b-fc5d1b2c4486",
+    "timestamp": "2026-06-23T04:45:05.989392+00:00",
+    "source": "script",
+    "session_id": "b15cc8e4-21b1-4d2f-b643-9e2dc55d8ff0",
+    "question": "Aur aapki preference zyada Air shipping ki rehti hai ya Surface?",
+    "response": "AAP theek Hoon."
+  },
+  {
+    "id": "dbbfe151-f3a8-4242-911f-f781d14cfd26",
+    "timestamp": "2026-06-23T05:02:49.942509+00:00",
+    "source": "general",
+    "session_id": "219e4679-f8fc-4bfd-8a24-0c3e18f72534",
+    "question": "Hi preeti kya AAP apne baare Mein kuchh aur bata sakte ho kya.",
+    "response": "Ji Ma’am/Sir, main Fship ki representative hoon aur aapko shipping solutions ke baare mein guide karne ke liye yahaan hoon."
+  },
+  {
+    "id": "859e580a-3144-43a2-b91b-d85a78c6c51f",
+    "timestamp": "2026-06-23T06:05:51.128561+00:00",
+    "source": "script",
+    "session_id": "9c1914b9-d04c-459a-ac84-9328db62f932",
+    "question": "Kya aap apne business ke liye shipping solutions explore kar rahe hain?",
+    "response": "हाँजी।"
+  },
+  {
+    "id": "0bc54875-a3db-43bf-94ef-defddc848eb0",
+    "timestamp": "2026-06-23T06:06:01.714850+00:00",
+    "source": "script",
+    "session_id": "9c1914b9-d04c-459a-ac84-9328db62f932",
+    "question": "Aapke monthly approx orders kitne rehte hain?",
+    "response": "मंथली अप्प्रोक्स 2000 से 3000।"
+  },
+  {
+    "id": "ed8596ce-c424-48e8-8bbe-f33eccc7b172",
+    "timestamp": "2026-06-23T06:06:11.972908+00:00",
+    "source": "script",
+    "session_id": "9c1914b9-d04c-459a-ac84-9328db62f932",
+    "question": "Abhi shipping ke liye aap kaunsi courier services use kar rahe hain?",
+    "response": "लेब्रि और ये कार्ड।"
+  },
+  {
+    "id": "3ed4be79-abac-4d42-9874-c765e39cb215",
+    "timestamp": "2026-06-23T06:06:33.826502+00:00",
+    "source": "general",
+    "session_id": "9c1914b9-d04c-459a-ac84-9328db62f932",
+    "question": "सर फिर रहती है पर मुझे आप ये बताओ आपके यहाँ और कोई ऐसी डेलिवरी सर्विसेज है, जिसमें मुझे एकार्ट डिलीवरी से करंट में यूज़ कर रहा हूँ? उससे ज्यादा फायदा मिले या क्या बेनिफिटस होंगे आपके साथ जुड़ने में?",
+    "response": "Ji Sir, Fship ke saath aapko competitive rates, faster deliveries aur reliable tracking milta hai. Hum personalized support ke saath bulk shipments par bhi savings offer karte hain."
+  },
+  {
+    "id": "13c5de48-ab4d-4502-b2c3-7fe1b3713755",
+    "timestamp": "2026-06-23T06:07:09.892651+00:00",
+    "source": "general",
+    "session_id": "9c1914b9-d04c-459a-ac84-9328db62f932",
+    "question": "मेरी सरफेस की रहती है परेफरेंस बट आपका अगर मैं लेता हूँ फ्रैन्चाइज़ या जो भी पार्टनर बनता हूँ तो उसके लिए मुझे क्या इन्वेस्टमेंट या मुझे क्या मैनपावर चाहिए?",
+    "response": "Ji Sir, franchise ya partnership ke liye investment aur manpower requirements location aur scale par depend karti hain. Aapke specific needs ke liye humari team aapko detailed guidance provide karegi."
+  },
+  {
+    "id": "db519c3b-c073-4854-999f-c50afad7ec12",
+    "timestamp": "2026-06-23T06:07:48.647388+00:00",
+    "source": "script",
+    "session_id": "9c1914b9-d04c-459a-ac84-9328db62f932",
+    "question": "Aur aapki preference zyada Air shipping ki rehti hai ya Surface?",
+    "response": "ठीक है आपकी टीम से बोल दो मुझसे कनेक्ट कर ले, बट मोस्टली मेरे को 2:00 बजे के बाद कॉल करें दोपहर में और मेरे फ़ोन पे ना की मेल पे।"
+  },
+  {
+    "id": "c5f2b3b7-258f-4e93-bfb5-06b81ecd88c4",
+    "timestamp": "2026-06-23T06:45:03.125750+00:00",
+    "source": "general",
+    "session_id": "c7c899a2-00cb-470a-9352-222a624fdd77",
+    "question": "येस आई वॉज़ एक्सप्लोरिंग टू इट। आप बता सकते हो क्या कुछ इसके बारे में?",
+    "response": "जी हां, सर। Fship एक आसान और भरोसेमंद प्लेटफ़ॉर्म है जो आपके बिज़नेस के लिए किफायती और तेज़ शिपिंग सॉल्यूशंस प्रदान करता है।"
+  },
+  {
+    "id": "3c0e9afc-eaa5-49a8-a722-80c69663b2ee",
+    "timestamp": "2026-06-23T06:45:34.878248+00:00",
+    "source": "general",
+    "session_id": "c7c899a2-00cb-470a-9352-222a624fdd77",
+    "question": "सॉरी एनिथिंग टू बी मैनेज्ड इट एन्क्रिप्शन लाइक और जो एक्स्ट्रा नॉइस हमारी याद नहीं नो नॉट दैट सो यू यू कैन स्टॉप दिस?",
+    "response": "जी सर, मुझे क्षमा करें, मैं आपके प्रश्न को पूरी तरह से समझ नहीं पाई। क्या आप कृपया इसे थोड़ा स्पष्ट कर सकते हैं?"
+  }
+]
