@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import threading
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
@@ -10,6 +11,7 @@ from typing import Any
 
 DATA_DIR = Path(__file__).parent / "data"
 QA_LOG_PATH = DATA_DIR / "qa_log.json"
+_write_lock = threading.Lock()
 
 
 def _ensure_data_dir() -> None:
@@ -30,6 +32,14 @@ def _save_all(records: list[dict[str, Any]]) -> None:
         json.dump(records, f, indent=2, ensure_ascii=False)
 
 
+def _append_record(record: dict[str, Any]) -> dict[str, Any]:
+    with _write_lock:
+        records = _load_all()
+        records.append(record)
+        _save_all(records)
+    return record
+
+
 def save_script_qa(
     *,
     session_id: str,
@@ -45,10 +55,7 @@ def save_script_qa(
         "question": script_question,
         "response": user_response,
     }
-    records = _load_all()
-    records.append(record)
-    _save_all(records)
-    return record
+    return _append_record(record)
 
 
 def save_off_script_qa(
@@ -66,14 +73,4 @@ def save_off_script_qa(
         "question": user_question,
         "response": assistant_response,
     }
-    records = _load_all()
-    records.append(record)
-    _save_all(records)
-    return record
-
-
-def list_qa(limit: int | None = None) -> list[dict[str, Any]]:
-    records = _load_all()
-    if limit is not None:
-        return records[-limit:]
-    return records
+    return _append_record(record)

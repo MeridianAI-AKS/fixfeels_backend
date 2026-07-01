@@ -73,22 +73,3 @@ def load_script_steps(path: Path | None = None) -> list[ScriptStep]:
         steps.append(ScriptStep(kind=kind, text=text))
 
     return steps
-
-
-def load_script_questions(path: Path | None = None) -> list[str]:
-    return [s.text for s in load_script_steps(path) if s.kind == "question"]
-
-
-def load_script_text(path: Path | None = None) -> str:
-    return "\n".join(s.text for s in load_script_steps(path))
-
-
-def script_off_script_reply(steps: list[ScriptStep]) -> str:
-    """Pick a scripted line for off-script user questions (no LLM)."""
-    for step in reversed(steps):
-        if step.kind == "closing":
-            return step.text
-    for step in steps:
-        if step.kind == "speak":
-            return step.text
-    return "Kripya apna jawab share karein."

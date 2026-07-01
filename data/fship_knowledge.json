@@ -1,0 +1,1299 @@
+{
+  "source": "https://fship.in/",
+  "scraped_at": "2026-06-24",
+  "company": {
+    "name": "Fship",
+    "legal_name": "Fixfeels Technologies Private Limited",
+    "tagline": "Your Shipment Our Commitment",
+    "summary": "AI-enabled e-commerce shipping aggregator for B2C and D2C sellers — reliable domestic shipping, COD, tracking, and API integration.",
+    "website": "https://fship.in/",
+    "about": "Fship, A product of Fixfeels Technologies Pvt. Ltd. is one of India’s latest and reliable tech-enabled logistics. Fship is a revolutionary logistics and fulfilment platform designed to simplify e-commerce operations for Indian merchants. The company was founded with the aim of democratizing the e-commerce landscape in the country by providing innovative and reliable tech-enabled solutions. With a wide network of partnerships with multiple courier companies, Fship provides businesses with a single platform to manage their shipping operations, track their orders, and make informed decisions. The current shipping solutions in the market have a significant shortcoming in terms of providing transparent information to businesses. This can often lead to businesses making uninformed decisions that can be costly in terms of both time and money. Fship bridges this gap by providing businesses with all the information they need to make informed decisions.",
+    "meta_description": "Fship provides affordable eCommerce logistics and shipping aggregator services tailored for D2C sellers and dropshippers. Get the best courier service with competitive rates, manage your shipping manifest, and streamline your business with our affordable courier service solutions."
+  },
+  "services": [
+    "Custom Validation",
+    "Branded Tracking Page",
+    "Bulk Order Shipping",
+    "Fship Bulkit",
+    "SDD or NDD Deliveries"
+  ],
+  "products": [
+    "Domestic Shipping",
+    "Next Day / Same Day Delivery",
+    "Postship",
+    "Tracking",
+    "B2B & Bulk Shipping",
+    "Fship Fulfillment"
+  ],
+  "platform_features": [
+    "Cash on Delivery",
+    "Serviceable Pincodes",
+    "Multiple Pickup Locations",
+    "Print Shipping labels",
+    "Email / SMS Notification",
+    "API Integration",
+    "NDR Management",
+    "AI-Based Courier Allocation",
+    "Branded Tracking Page",
+    "Custom Order Validation",
+    "Dedicated Account Manager",
+    "Easy Channel Integration"
+  ],
+  "why_choose_us": [
+    {
+      "title": "Affordable",
+      "detail": "Budget-friendly logistic solutions without compromising quality; competitive rates for affordable courier service."
+    },
+    {
+      "title": "Customized Filters",
+      "detail": "Customizable filters so each shipment meets your business needs; shipping adapts to your e-commerce operations."
+    },
+    {
+      "title": "AI Courier Allocation",
+      "detail": "AI-driven courier allocation optimizes routes, reduces cost, and enables faster, smarter deliveries."
+    },
+    {
+      "title": "Branded Tracking Page",
+      "detail": "White-labeled branded tracking page for your customers with real-time delivery updates."
+    }
+  ],
+  "courier_partners": "Trusted courier partners via Fship: Amazon Shipping, Blue Dart Air, Blue Dart Express, DTDC, Delhivery, ECOM, EKART, Shadowfax, XpressBees.",
+  "contact": {
+    "address": "D 247/3, D Block, Sector 63, Noida, Uttar Pradesh 201301",
+    "email": "support@fship.in",
+    "phone": "+91 9999795111",
+    "support_hours": "10 AM to 7 PM, Monday to Saturday",
+    "alternate_address": "1018 10th floor, Galaxy blue Sapphire Plaza, Greater Noida west, Uttar Pradesh, 201009"
+  },
+  "signup": "Register or Try for Free on https://fship.in/",
+  "pricing_note": "Pricing is on the website — do not invent rates; share https://fship.in/ for current pricing.",
+  "topics_for_website": [
+    "pricing",
+    "rate card",
+    "sign up",
+    "register",
+    "API docs",
+    "terms",
+    "careers",
+    "track order",
+    "rate calculator",
+    "API integration",
+    "privacy policy",
+    "refund policy",
+    "life at fship",
+    "bulk shipping",
+    "B2B shipping",
+    "same day delivery",
+    "next day delivery",
+    "COD remittance",
+    "NDR management",
+    "branded tracking",
+    "custom validation"
+  ],
+  "last_appended_at": "2026-07-01",
+  "pages_crawled": [
+    "https://fship.in/",
+    "https://fship.in/about-us",
+    "https://fship.in/about-us.html",
+    "https://fship.in/b2b.html",
+    "https://fship.in/brandedTrackingPage.html",
+    "https://fship.in/bulkordershipping.html",
+    "https://fship.in/contact.html",
+    "https://fship.in/customvalidation.html",
+    "https://fship.in/features",
+    "https://fship.in/features.html",
+    "https://fship.in/fshipbulkit.html",
+    "https://fship.in/fulfillment.html",
+    "https://fship.in/index.html",
+    "https://fship.in/life@fship.html",
+    "https://fship.in/nextday",
+    "https://fship.in/nextday.html",
+    "https://fship.in/ordertracking.html",
+    "https://fship.in/partners.html",
+    "https://fship.in/postship",
+    "https://fship.in/postship.html",
+    "https://fship.in/pricing.html",
+    "https://fship.in/privacy-policy",
+    "https://fship.in/privacy-policy.html",
+    "https://fship.in/ratecalculator.html",
+    "https://fship.in/refund-policy",
+    "https://fship.in/refund-policy.html",
+    "https://fship.in/sameday-nextday-delivery.html",
+    "https://fship.in/terms-and-conditions.html"
+  ],
+  "pages": [
+    {
+      "url": "https://fship.in/features",
+      "title": "Features - eCommerce Logistics & Shipping Solutions",
+      "summary": "Fship are leading enablers to Quick Commerce!",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Features",
+          "An all-in-one eCommerce Solution for your shipping needs"
+        ],
+        "h3": [
+          "Cash On Delivery",
+          "Multiple Pickup Locations",
+          "Serviceable Pin Codes",
+          "API Integration",
+          "One API. Many Uses",
+          "Email & SMS Notifications"
+        ],
+        "h4": [
+          "Highly Convenient",
+          "Faster Delivery Time",
+          "Lower Shipping Cost",
+          "Better Customer Satisfaction",
+          "Fship Fulfillment",
+          "Organized Operations",
+          "Automated Process",
+          "Tracking"
+        ],
+        "h5": [
+          "Get early Cash on Delivery Remittance",
+          "Maximum Coverage with 29000+ pincodes.",
+          "Flexible API That Meets Your Client's Needs",
+          "Get real-time updates, as soon as the products get shipped through multiple channels. Improve customer service with real-time shipment updates"
+        ]
+      },
+      "paragraphs": [
+        "Fship are leading enablers to Quick Commerce!",
+        "No need to choose one. Offer both prepaid & cash on delivery payment options.",
+        "Improve your cash flow. Scale your business faster with early COD remittance.",
+        "Do you have multiple warehouses or sell your products through various vendors? Add unlimited warehouses to simplify your logistics operations",
+        "we let you add all your pickup locations by uploading a bulk pickup sheet. Now, add as many pickup locations as you want! This feature is available in all our plans.",
+        "Get your product delivered at your customers doorstep by selecting the nearest pickup location to your buyer’s address. It helps in faster delivery by eliminating the extra in-transit time.",
+        "By selecting the nearest pickup location to the delivery location, you also reduce the overall shipping cost.",
+        "Build trust by going an extra mile for your customers",
+        "Ship at maximum coverage in just a few clicks, With extensive coverage of 29000+ pincodes.",
+        "With extensive coverage of 29000+ pincodes, you can reach out to every corner of the country. Double your sales by having a reach to every state and town.",
+        "API Integration refers to this seamless connectivity. Now stay connected with your store – at all times!",
+        "API Integration refers to this seamless connectivity that allows organizations to automate business processes, and enhance the sharing and embedding of data between various applications and systems. For instance, like Fship aggregates data from various Couriers by calling their APIs and push to your API system.",
+        "We’re amazed by the creative uses of our API. Here are some:",
+        "3PLs are always looking for an increased assortment of couriers for their clients. Our API gives them instant access without disrupting processes.",
+        "With a regular incoming order flow, follow a particular procedure for every shipment."
+      ]
+    },
+    {
+      "url": "https://fship.in/bulkordershipping.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Ship high volumes with ease using Fship’s bulk order shipping solution. Designed for growing D2C brands and ecommerce owners in India who want cheap logistics and seamless ecommerce shipping at scale.",
+      "headings": {
+        "h1": [
+          "Effortless Bulk Order Shipping",
+          "Fship's achievements over the years",
+          "Key Features of Bulk Order Shipping",
+          "Empowering your business to scale effortlessly",
+          "How we Helped our Clients",
+          "Frequently Asked Questions"
+        ],
+        "h2": [
+          "How does Fship choose the best courier for bulk orders?",
+          "How can I save on bulk shipping costs?"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "Streamline your bulk order shipping with Fship s reliable and scalable logistics solutions.",
+        "We have been using Fship for almost 6 months now, and it has solved a lot of our problems that our customers were facing, especially with faster deliveries. With the product line that we work on, our customers usually place orders at the last moment, and it was very critical for us to deliver on time. The best part is that our customers are quite happy, and I think that Fship is giving good competition to its competitors, and we are quite satisfied. I highly recommend Fship to all the D2C founders and brands who want to try out new services and want to deliver their orders fast.",
+        "Hi, I’m Avani Karda , Co-founder of Toolaah. Our experience with Fship has been really positive. Their team has been reliable and supportive from day one. The sales team guided me right from the start, and I haven’t faced any issues. The shipping process is easy, and we get real-time updates, which makes everything run smoothly. Fship has taken the stress out of logistics, letting us focus on growing our kids' apparel brand. I highly recommend Fship to other businesses looking for a better shipping experience.",
+        "Fship has been an exceptional partner! Their team made onboarding seamless and continues to manage our account with great care. What we appreciate most is their consultative approach—it’s helped us lower shipping costs and improve delivery performance. The platform is easy to use, rates are competitive, and support is quick and transparent. Highly recommended!",
+        "Greetings from Herbalaxe! We appreciate the excellent service and support from Fship. From the start, your team showed professionalism, helping us streamline logistics efficiently. The user-friendly platform, competitive pricing, and prompt issue resolution have made Fship more than a shipping provider—a true logistics partner. Special thanks to our SPOC, Nisha Katiyar, for her quick responses and professional guidance. We look forward to continuing this successful partnership and gladly recommend Fship.",
+        "Founder, Artific Clothing Co.",
+        "Hi, I’m Krish Chitroda, Founder of Artific Clothing Co., and I’d like to share my experience with Fship. One of the things that stands out is how their sales team has really helped us manage our shipments better. They’ve given us great advice and tips that have helped streamline our process and contribute to our business growth. The dashboard is also easy to use, which makes everything run smoothly. I recommend Fship to any business looking for a reliable partner to support their shipping needs.",
+        "Fship has truly simplified our shipping operations. Their team was hands-on from the onboarding stage, ensuring a seamless start. What impressed us most is their deep understanding of logistics—they focus on providing solutions, not just services. With their guidance, we’ve optimized shipping costs and improved delivery timelines. The platform is intuitive, support is responsive, and everything from tracking to NDR feels streamlined. It's refreshing to work with a partner that genuinely cares about our growth.",
+        "Ops Manager, Neesh Perfumes",
+        "Our experience with Fship has been outstanding! The intuitive platform has streamlined our shipping—from order creation to tracking—making logistics effortless. A special shoutout to our Key Account Manager, Deeksha Chaudhary, who ensures every issue is resolved promptly. Features like NDR management and click-to-call have improved delivery success and reduced returns. With transparent pricing, reliable support, and Deeksha’s dedication, Fship is more than a shipping partner—it’s a growth enabler. Highly recommended!",
+        "Hi, I am RONAK, Founder of “TRPWATCH COLLECTION”.Shipping was always a big headache for us before we started using Fship. But ever since we joined them, things have been way smoother. Their team is super helpful, especially the sales team – they actually listen and guide you properly. Our RTOs have gone down, and pickups happen on time. Plus, their rates are pocket-friendly, which really helps with saving costs. Overall, it just feels good to work with people who genuinely care about your business."
+      ]
+    },
+    {
+      "url": "https://fship.in/partners.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Fship integrates with top ecommerce platforms and trusted courier partners to offer smooth ecommerce shipping for D2C brands. Discover the best logistics network for ecommerce owners in India, all in one place.",
+      "headings": {
+        "h1": [
+          "E-Commerce Integration for Smarter Shipping",
+          "Connect with Multiple Courier Partners Effortlessly",
+          "Integrations",
+          "Frequently Asked Questions"
+        ],
+        "h2": [
+          "Trusted by Leading Brands",
+          "What is e-commerce store integration, and how does it work with Fship?",
+          "Which e-commerce platforms can I integrate with Fship?",
+          "Can I assign specific couriers for different types of orders?",
+          "Will Fship provide real-time tracking updates to my customers?"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "Fship simplifies your operations by connecting with your eCommerce channels to centralize all orders in one dashboard. Automatically sync your orders and manage shipments seamlessly from a single, user-friendly platform. Focus on scaling your business while we handle the heavy lifting of logistics.",
+        "With Fship, integrating with courier services is simple and hassle-free. Manage all your shipping needs from a unified platform, ensuring quick order allocation and streamlined deliveries. Whether you re shipping locally or across borders, our platform offers flexibility and efficiency, letting you focus on scaling your business while we take care of the logistics.",
+        "Amazon Shipping is a reliable courier partner known for efficient service, with 96% pick-up performance and 92%+ TAT adherence, ensuring timely and dependable deliveries.",
+        "Blue Dart Air is renowned for its high standards in logistics, achieving up to 92% pick-up performance and 90%+ TAT adherence, ensuring consistent, timely, and reliable delivery solutions.",
+        "DTDC, a leading logistics provider with 35+ years of expertise, delivers reliable solutions backed by advanced technology. Covering 7,000+ specialized pin codes, ensuring seamless delivery across India.",
+        "Blue Dart Express ensures reliable and timely deliveries with 96%+ pick-up performance and 92%+ TAT adherence, leveraging advanced technology and a robust logistics network across India.",
+        "Delhivery, a leading logistics player in India, boasts impressive performance with 98% TAT adherence and consistently high delivery reliability, ensuring timely and efficient service.",
+        "ECOM, prominent logistics provider, ensures reliable service with 90% pick-up performance and maintains a strong 91%+ TAT adherence across its platform, consistently meeting customer even in the remote pincodes.",
+        "EKART, leading logistics service , ensures 95% pick-up performance and boasts 90%+ TAT adherence, ensuring dependable and timely delivery across various shipping needs.",
+        "Shadowfax delivers exceptional logistics services with 96% pick-up performance, 92%+ TAT adherence, and coverage across 8000+ specialized pin codes, ensuring reliable and timely deliveries for a wide range of shipments.",
+        "XpressBees is renowned for its efficient logistics services, with 95% pick-up performance and 92%+ TAT adherence, ensuring fast, reliable deliveries across India, including even the remotest regions.",
+        "WooCommerce, a customizable ecommerce platform, offers easy integration, secure payments, inventory management, and scalability.",
+        "Shopify, a leading e-commerce platform, provides seamless integration, secure payments, mobile responsiveness, and scalability.",
+        "Unicommerce, a robust order management platform, enables seamless integration, inventory syncing, multi-channel support, and scalability.",
+        "Clickpost is a powerful logistics platform that simplifies courier integration and real-time shipment tracking. Optimize your shipping process, improve delivery efficiency, and enhance customer satisfaction to accelerate the growth of your e-commerce business."
+      ]
+    },
+    {
+      "url": "https://fship.in/b2b.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": []
+    },
+    {
+      "url": "https://fship.in/",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Fship provides affordable eCommerce logistics and shipping aggregator services tailored for D2C sellers and dropshippers. Get the best courier service with competitive rates, manage your shipping manifest, and streamline your business with our affordable courier service solutions.",
+      "headings": {
+        "h1": [
+          "Your Shipment Our Commitment",
+          "How Fship Works",
+          "Our Prominent Features",
+          "We Are",
+          "Why Choose Us ?",
+          "Let’s see what our Client says",
+          "Our Trusted Courier Partners"
+        ],
+        "h2": [
+          "Trusted by Leading Brands"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": [
+          "Affordable",
+          "Customized Filters",
+          "AI Courier Allocation",
+          "Branded Tracking Page"
+        ]
+      },
+      "paragraphs": [
+        "Experience AI-enabled logistics solutions tailored to revolutionize your e-commerce business.",
+        "Discover why top brands choose Fship for their e-commerce logistic needs. Our seamless, reliable, and efficient shipping solutions empower businesses to reach their customers faster and smarter. Join the growing list of satisfied clients who trust us to deliver excellence every time.",
+        "At Fship, we are dedicated to transforming your Ecommerce shipping experience with our AI-based automated shipping aggregator designed to meet the unique needs of B2C and D2C sellers.",
+        "Our goal is to streamline your Ecommerce logistics, enhance your customer satisfaction, and help your business grow with our expert logistics service.",
+        "Fship offers logistic solutions designed to be budget-friendly without compromising on quality. We offer competitive rates to ensure you get the best and affordable courier service and the best value for your money.",
+        "Tailor your e-commerce logistic operations with our customizable filters, ensuring each shipment meets your specific needs. Our shipping solutions adapt to your e-commerce business requirements seamlessly.",
+        "Optimize your e-commerce delivery routes and reduce costs with our AI-driven courier allocation system. Experience faster, and smarter deliveries with advanced technology.",
+        "Enhance your customer experience with a seamless, branded White-Labeled tracking page that reflects your brand’s identity. Keep your customers informed and engaged throughout the e-commerce delivery process.",
+        "Hi I am Avantika Awasthi, founder of Adornments. Fship has been an invaluable shipping partner for my jewellery business. From courier selection to branded tracking, their platform makes it easy to manage shipments with best rates, and the timely deliveries and updates have helped me build strong trust with my customers. I highly recommend Fship for any D2C/ecommerce seller looking for safe, dependable, and seller-friendly logistics. Thank you for the truly amazing service experience.",
+        "We have been using Fship for almost 6 months now, and it has solved a lot of our problems that our customers were facing, especially with faster deliveries. With the product line that we work on, our customers usually place orders at the last moment, and it was very critical for us to deliver on time. The best part is that our customers are quite happy, and I think that Fship is giving good competition to its competitors, and we are quite satisfied. I highly recommend Fship to all the D2C founders and brands who want to try out new services and want to deliver their orders fast.",
+        "Hi, I'm Harsh, the founder of Zorb. I wanted to share my thoughts about my experience with Fship. They have always been helpful in terms of support, and services they have rendered to me. Their dedicated key account manager has timely updated my orders, have always listened to me in a friendly and patient way, I will definitely recommend Fship to my other friends who are in similar businesses.",
+        "Partnering with Fship has transformed the way we manage our logistics. Their commitment to timely deliveries, real-time updates, and operational efficiency has made a noticeable difference. They consistently deliver on promises, making them more than just a shipping provider. A special mention to our Account Manager, Deeksha Chaudhary—her professionalism, deep logistics knowledge, and proactive approach have been invaluable. With her support and Fship’s reliability, we’ve found a logistics partner we can truly count on.",
+        "Founder of Raja Rani Coaching",
+        "Hi, I’m Mehul Dudhat Co-Founder of Raja Rani Coaching Pvt. Ltd., and I want to share my experience with Fship. One thing I really appreciate is how easy they’ve made managing shipments. Their dashboard is simple to use, and their support team has always been there when we’ve needed help. It’s been a big relief having Fship on board as we grow. I’d definitely recommend them to any business looking for a reliable shipping partner."
+      ]
+    },
+    {
+      "url": "https://fship.in/ratecalculator.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Protect your D2C brand from fake or duplicate orders with Fship’s advanced order validation tools. Smart ecommerce shipping services designed for ecommerce owners in India looking to save costs and ensure safe deliveries with cheap logistics.",
+      "headings": {
+        "h1": [
+          "Calculate your Rates",
+          "Calculate Shipping Costs with Complete Accuracy",
+          "Designed for Sellers who mean Business",
+          "Your Best Rate in 3 Steps",
+          "Frequently Asked Questions",
+          "Explore Our Latest Blogs"
+        ],
+        "h2": [
+          "Is the Fship shipping rate calculator free to use?",
+          "How is the shipping rate calculated?",
+          "What is volumetric weight and how does it affect my shipping cost?",
+          "Can I compare COD and prepaid rates on the calculator?",
+          "Are the rates shown on the calculator the same as what I pay on Fship?",
+          "Do I need a minimum order volume to start shipping on Fship?"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": [
+          "How Fship Works: Guide to Seamless E-commerce Shipping Process",
+          "Courier API Integration: Simplify Your Shipping Workflow with Fship",
+          "Guide for Best Courier Service for Small Business, MSME in India in 2025"
+        ]
+      },
+      "paragraphs": [
+        "Stop Overpaying for Shipping",
+        "Rate. Speed. Coverage. Performance. COD. Fship's Smart Shipping Calculator covers every metric that matters.",
+        "Fship’s Smart Shipping Rate Calculator considers all factors that affect your shipping and fulfillment costs.",
+        "From your order #0001 to #99999 - The clarity every seller needs to make shipping their strength, not their struggle."
+      ]
+    },
+    {
+      "url": "https://fship.in/about-us",
+      "title": "About Us - eCommerce Logistics & Shipping Solutions",
+      "summary": "Fship, A product of Fixfeels Technologies Pvt. Ltd. is one of India’s latest and reliable tech-enabled logistics.",
+      "headings": {
+        "h1": [
+          "About Fship"
+        ],
+        "h2": [
+          "An all-in-one eCommerce Solution for your shipping needs"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "Fship, A product of Fixfeels Technologies Pvt. Ltd. is one of India’s latest and reliable tech-enabled logistics.",
+        "Fship is a revolutionary logistics and fulfilment platform designed to simplify e-commerce operations for Indian merchants. The company was founded with the aim of democratizing the e-commerce landscape in the country by providing innovative and reliable tech-enabled solutions. With a wide network of partnerships with multiple courier companies, Fship provides businesses with a single platform to manage their shipping operations, track their orders, and make informed decisions.",
+        "The current shipping solutions in the market have a significant shortcoming in terms of providing transparent information to businesses. This can often lead to businesses making uninformed decisions that can be costly in terms of both time and money. Fship bridges this gap by providing businesses with all the information they need to make informed decisions.",
+        "Fship is designed with the user in mind and offers an easy integration with online stores and marketplaces. This allows for automated sync and order tracking facilities, making the platform user-friendly and efficient. The platform is designed to simplify the e-commerce process, allowing businesses to focus on their core operations rather than worrying about managing orders and searching for reliable courier services.",
+        "With Fship, hundreds of e-commerce merchants have been able to build their brands and provide a delightful customer experience to their users. The platform has received widespread recognition for its innovative approach to logistics and fulfilment, and its ability to save merchants time and money.",
+        "Fship currently serves over 29,000 pin codes across India, providing businesses with a wide network of courier services. The company is committed to continuing to expand its services, providing merchants with reliable and cost-effective shipping solutions.",
+        "In conclusion, Fship is a game-changer in the e-commerce industry, providing businesses with a transparent and reliable platform to manage their shipping operations. With its innovative approach, Fship has taken a step forward in simplifying the e-commerce process for Indian merchants, saving them precious time and money and allowing them to focus on their core business operations.",
+        "Need help? Get in touch with us",
+        "Fship. 1018 10th floor, Galaxy blue Sapphire Plaza, Greater Noida west, Uttar Pradesh, 201009"
+      ]
+    },
+    {
+      "url": "https://fship.in/nextday",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": []
+    },
+    {
+      "url": "https://fship.in/about-us.html",
+      "title": "About Us - eCommerce Logistics & Shipping Solutions",
+      "summary": "Fship, A product of Fixfeels Technologies Pvt. Ltd. is one of India’s latest and reliable tech-enabled logistics.",
+      "headings": {
+        "h1": [
+          "About Fship"
+        ],
+        "h2": [
+          "An all-in-one eCommerce Solution for your shipping needs"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "Fship, A product of Fixfeels Technologies Pvt. Ltd. is one of India’s latest and reliable tech-enabled logistics.",
+        "Fship is a revolutionary logistics and fulfilment platform designed to simplify e-commerce operations for Indian merchants. The company was founded with the aim of democratizing the e-commerce landscape in the country by providing innovative and reliable tech-enabled solutions. With a wide network of partnerships with multiple courier companies, Fship provides businesses with a single platform to manage their shipping operations, track their orders, and make informed decisions.",
+        "The current shipping solutions in the market have a significant shortcoming in terms of providing transparent information to businesses. This can often lead to businesses making uninformed decisions that can be costly in terms of both time and money. Fship bridges this gap by providing businesses with all the information they need to make informed decisions.",
+        "Fship is designed with the user in mind and offers an easy integration with online stores and marketplaces. This allows for automated sync and order tracking facilities, making the platform user-friendly and efficient. The platform is designed to simplify the e-commerce process, allowing businesses to focus on their core operations rather than worrying about managing orders and searching for reliable courier services.",
+        "With Fship, hundreds of e-commerce merchants have been able to build their brands and provide a delightful customer experience to their users. The platform has received widespread recognition for its innovative approach to logistics and fulfilment, and its ability to save merchants time and money.",
+        "Fship currently serves over 29,000 pin codes across India, providing businesses with a wide network of courier services. The company is committed to continuing to expand its services, providing merchants with reliable and cost-effective shipping solutions.",
+        "In conclusion, Fship is a game-changer in the e-commerce industry, providing businesses with a transparent and reliable platform to manage their shipping operations. With its innovative approach, Fship has taken a step forward in simplifying the e-commerce process for Indian merchants, saving them precious time and money and allowing them to focus on their core business operations.",
+        "Need help? Get in touch with us",
+        "Fship. 1018 10th floor, Galaxy blue Sapphire Plaza, Greater Noida west, Uttar Pradesh, 201009"
+      ]
+    },
+    {
+      "url": "https://fship.in/privacy-policy.html",
+      "title": "Privacy Policy - eCommerce Logistics & Shipping Solutions",
+      "summary": "www.fship.in (“Website” or “Platform” or “Fship”) is owned, registered and operated by (“Company”), a private limited company incorporated under the provisions of the Companies Act, 1956",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Privacy Policy",
+          "General",
+          "Personal Information",
+          "Use of Personal Information",
+          "Security",
+          "Consent",
+          "Contact",
+          "An all-in-one eCommerce Solution for your shipping needs"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "www.fship.in (“Website” or “Platform” or “Fship”) is owned, registered and operated by (“Company”), a private limited company incorporated under the provisions of the Companies Act, 1956",
+        "Fship respects the importance of the privacy of users that register on the website and of the end customers of users of the website . This policy accounts for the personal data and cookies etc., used via Fship to provide world class logistics solutions to its users. By accessing and utilising the Website, you consent to the collection, use, disclosure, storage and processing of personal data and information in accordance with this Privacy Policy. Please note, you are not required by law to provide us with your personal data, however by electing not to share your personal data with us, you may be unable to take advantage of our Website and we may be unable to provide you with all of the functionality we offer through our Website. If you do not agree with the terms herein, please do not use Website and delete the cookies placed by the Website. Note: We keep updating our Privacy Policy regularly to make sure that you are aware of any changes, kindly review the policy periodically. This Privacy Policy shall apply uniformly to Fship desktop website, Fship mobile WAP site.",
+        "Fship does not sell, share or rent your personal information to any 3rd party. Your phone number and email might be used to share internal updates regarding Swift or its partners’ products. Any emails and/or SMS sent by Fship will only be in connection with the provision of agreed services & products and this Privacy Policy. Periodically, we may reveal general statistical information about Fship & its users, such as number of visitors, number and type of goods and services purchased, etc. without disclosing any personal. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure.",
+        "Personal Information means and includes all information that can be linked to a specific individual or to identify any individual, such as name, address, mailing address, telephone number, email ID. When you browse through Fship, we may collect information regarding the domain and host from which you access the internet, the Internet Protocol [IP] address of the computer or Internet service provider [ISP] you are using, and anonymous site statistical data.",
+        "We use personal information to provide you with services & products you explicitly requested for, to resolve disputes, troubleshoot concerns, help promote safe services, collect money, measure consumer interest in our services, inform you about offers, products, services, updates, customize your experience, detect & protect us against error, fraud and other criminal activity, enforce our terms and conditions, etc. We also use your contact information to send you offers based on your previous orders and interests. We may occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, gender, etc.). We use this data to customize your experience at Fship, providing you with content that we think you might be interested in and to display content according to your preferences. The information we collect with cookies is not sold, rented, or shared with any third parties, other than for internal Platform development and maintenance.",
+        "Fship has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.",
+        "By using Fship and/or by providing your information, you consent to the collection and use of the information you disclose on Fship in accordance with this Privacy Policy, including but not limited to your consent for sharing your information as per this privacy policy. As per industry practice, we may share/transfer your personal data to our other group companies, Partner Company, credit rating agencies, subcontractors, consultants, advisors, partners, technology providers, Service Providers and other third parties engaged by us to carry out services on our behalf, or otherwise in accordance with our legitimate business needs.",
+        "If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our grievance officer/privacy team by sending a email to support@fship.in",
+        "Need help? Get in touch with us",
+        "Fship. 1018 10th floor, Galaxy blue Sapphire Plaza, Greater Noida west, Uttar Pradesh, 201009"
+      ]
+    },
+    {
+      "url": "https://fship.in/sameday-nextday-delivery.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Fship enables quick delivery with Same-Day and Next-Day shipping solutions; lightning-fast delivery, reliable fulfilment, and real-time tracking for growing D2C brands.",
+      "headings": {
+        "h1": [
+          "Ship Speed. Stay Ahead. Same Day or Next Day Deliveries",
+          "Fast Deliveries. Measurable Results.",
+          "Deliver faster, smarter & easier",
+          "Top Couriers. Faster Deliveries. Smarter Shipping.",
+          "Learn More from Our Blogs",
+          "Frequently Asked Questions"
+        ],
+        "h2": [
+          "Available in Multiple cities",
+          "Manage everything from one dashboard",
+          "Speed Up Deliveries, Strengthen Your Brand.",
+          "How does Next Day Delivery (NDD) differ from Same Day Delivery?",
+          "Do I need my own warehouse in every city to offer Same-Day or Next-Day Delivery?",
+          "Can I manage multiple sales channels from one dashboard for SDD/NDD?"
+        ],
+        "h3": [
+          "AI-Powered Courier Allocation",
+          "Sales Channel Integration",
+          "Branded & Transparent Tracking"
+        ],
+        "h4": [],
+        "h5": [
+          "Connect & Ship Instantly",
+          "Cut your shipping costs",
+          "Fewer Abandoned Carts",
+          "Top 5 Same Day Intracity Delivery in India",
+          "How to reduce RTO by 20% with Fship (2025)",
+          "Air vs Surface Shipping: Which Mode is Best for Your D2C Business in 2025"
+        ]
+      },
+      "paragraphs": [
+        "lightning-fast delivery from checkout to doorstep.",
+        "Same Day or Next Day Deliveries,",
+        "Same-Day & Next-Day Deliveries don’t just impress customers — they transform your business.",
+        "Simplify your eCommerce shipping with Fship—built for brand owners who want speed, savings, and control, with quick delivery even during rush hours or festive peaks.",
+        "Get Lightning-Fast Delivery With Same/Next Day Across 30+ Cities, Including Metro And Tier 1 Locations.",
+        "Manage Same-Day And Next-Day Deliveries Across 5+ Courier Partners — Track, Control, And Optimize Every Express Delivery In Real Time.",
+        "Easy integration, instant action, link your ecommerce platform and start shipping SDD/NDD with zero setup struggle.",
+        "Smart courier allocation ensures you always ship with the best rate.",
+        "Fast, on-time deliveries by Fship ensure more completed checkouts.",
+        "Automatically assign the fastest and most reliable courier for every order with AI-powered courier allocation, reducing delays, optimizing costs, and ensuring your deliveries reach customers on time, every time.",
+        "Seamlessly connect your eCommerce platforms like Shopify, WooCommerce, EasyEcom, and more with Fship for effortless order management, faster dispatch, and smooth operation.",
+        "Keep your customers informed at every step with a branded tracking page that showcases your brand, builds trust, and turns every delivery into a seamless, memorable experience.",
+        "Ship with top couriers offering same-day or next-day delivery, ensuring delivery within hours, even during peak rush hours."
+      ]
+    },
+    {
+      "url": "https://fship.in/brandedTrackingPage.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Fship provides affordable eCommerce logistics and shipping aggregator services tailored for D2C sellers and dropshippers. Get the best courier service with competitive rates, manage your shipping manifest, and streamline your business with our affordable courier service solutions.",
+      "headings": {
+        "h1": [
+          "Turn tracking into a Brand Moment",
+          "Tracking Page That Showcases Your Brand",
+          "Set Up Your Branded Tracking Page in Minutes",
+          "Transform Tracking into a Revenue Engine",
+          "Learn More from Our Blogs",
+          "Frequently Asked Questions"
+        ],
+        "h2": [
+          "What is Fship’s Branded Tracking Page?",
+          "How does a Branded Tracking Page improve the customer experience?",
+          "Can I promote my brand through the tracking page?"
+        ],
+        "h3": [],
+        "h4": [
+          "Upsell with Ease",
+          "Engage Through Content",
+          "Promote What’s Next",
+          "Turn Feedback into Action",
+          "Seamless Experience Across Every Screen"
+        ],
+        "h5": [
+          "Comprehensive Tracking Insights",
+          "Live Order Movement",
+          "Smart Delivery Predictions",
+          "Instant Multichannel Alerts",
+          "What is Branded Tracking Page? Benefits to Ecommerce/D2C Brands (2025)",
+          "Why Post-Purchase Behaviour Matters & How Businesses Can Improve It in 2025",
+          "Consignor vs Consignee: What Every eCommerce Seller Should Know?"
+        ]
+      },
+      "paragraphs": [
+        "Build trust, drive repeat purchases, and turn every post-purchase moment into a conversion opportunity.",
+        "Deliver complete shipment visibility from dispatch to doorstep. Empower customers with transparent updates that build trust and loyalty.",
+        "Keep buyers informed in real time as their package progresses through every delivery stage. No waiting, no confusion — just seamless visibility at every milestone.",
+        "Offer precise delivery timelines powered by Fship’s intelligent data models.Reduce support queries and elevate customer satisfaction with dependable ETAs.",
+        "Send automated updates via SMS, WhatsApp, and email the moment an order status changes. Stay connected across every touchpoint and enhance your post-purchase experience.",
+        "Watch this quick step-by-step guide to set up your own branded tracking page – Your brand, Your tracking.",
+        "Turn your tracking page into a subtle sales driver. Show your Best-Selling products or curated bundles that inspire repeat purchases.",
+        "Bring your brand story to life where your customers are looking. Embed reels, social posts, or short videos to keep them inspired and connected.",
+        "Use dynamic banners and announcement bars to highlight ongoing offers, festive sales, or product launches – all within the tracking flow.",
+        "Get delivery and product reviews directly from your tracking page. Understand what works, fix what doesn’t, and keep customers coming back.",
+        "Experience a refined, responsive design that adapts flawlessly across devices—ensuring every interaction feels seamless and premium."
+      ]
+    },
+    {
+      "url": "https://fship.in/fulfillment.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": []
+    },
+    {
+      "url": "https://fship.in/privacy-policy",
+      "title": "Privacy Policy - eCommerce Logistics & Shipping Solutions",
+      "summary": "www.fship.in (“Website” or “Platform” or “Fship”) is owned, registered and operated by (“Company”), a private limited company incorporated under the provisions of the Companies Act, 1956",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Privacy Policy",
+          "General",
+          "Personal Information",
+          "Use of Personal Information",
+          "Security",
+          "Consent",
+          "Contact",
+          "An all-in-one eCommerce Solution for your shipping needs"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "www.fship.in (“Website” or “Platform” or “Fship”) is owned, registered and operated by (“Company”), a private limited company incorporated under the provisions of the Companies Act, 1956",
+        "Fship respects the importance of the privacy of users that register on the website and of the end customers of users of the website . This policy accounts for the personal data and cookies etc., used via Fship to provide world class logistics solutions to its users. By accessing and utilising the Website, you consent to the collection, use, disclosure, storage and processing of personal data and information in accordance with this Privacy Policy. Please note, you are not required by law to provide us with your personal data, however by electing not to share your personal data with us, you may be unable to take advantage of our Website and we may be unable to provide you with all of the functionality we offer through our Website. If you do not agree with the terms herein, please do not use Website and delete the cookies placed by the Website. Note: We keep updating our Privacy Policy regularly to make sure that you are aware of any changes, kindly review the policy periodically. This Privacy Policy shall apply uniformly to Fship desktop website, Fship mobile WAP site.",
+        "Fship does not sell, share or rent your personal information to any 3rd party. Your phone number and email might be used to share internal updates regarding Swift or its partners’ products. Any emails and/or SMS sent by Fship will only be in connection with the provision of agreed services & products and this Privacy Policy. Periodically, we may reveal general statistical information about Fship & its users, such as number of visitors, number and type of goods and services purchased, etc. without disclosing any personal. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure.",
+        "Personal Information means and includes all information that can be linked to a specific individual or to identify any individual, such as name, address, mailing address, telephone number, email ID. When you browse through Fship, we may collect information regarding the domain and host from which you access the internet, the Internet Protocol [IP] address of the computer or Internet service provider [ISP] you are using, and anonymous site statistical data.",
+        "We use personal information to provide you with services & products you explicitly requested for, to resolve disputes, troubleshoot concerns, help promote safe services, collect money, measure consumer interest in our services, inform you about offers, products, services, updates, customize your experience, detect & protect us against error, fraud and other criminal activity, enforce our terms and conditions, etc. We also use your contact information to send you offers based on your previous orders and interests. We may occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, gender, etc.). We use this data to customize your experience at Fship, providing you with content that we think you might be interested in and to display content according to your preferences. The information we collect with cookies is not sold, rented, or shared with any third parties, other than for internal Platform development and maintenance.",
+        "Fship has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.",
+        "By using Fship and/or by providing your information, you consent to the collection and use of the information you disclose on Fship in accordance with this Privacy Policy, including but not limited to your consent for sharing your information as per this privacy policy. As per industry practice, we may share/transfer your personal data to our other group companies, Partner Company, credit rating agencies, subcontractors, consultants, advisors, partners, technology providers, Service Providers and other third parties engaged by us to carry out services on our behalf, or otherwise in accordance with our legitimate business needs.",
+        "If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our grievance officer/privacy team by sending a email to support@fship.in",
+        "Need help? Get in touch with us",
+        "Fship. 1018 10th floor, Galaxy blue Sapphire Plaza, Greater Noida west, Uttar Pradesh, 201009"
+      ]
+    },
+    {
+      "url": "https://fship.in/features.html",
+      "title": "Features - eCommerce Logistics & Shipping Solutions",
+      "summary": "Fship are leading enablers to Quick Commerce!",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Features",
+          "An all-in-one eCommerce Solution for your shipping needs"
+        ],
+        "h3": [
+          "Cash On Delivery",
+          "Multiple Pickup Locations",
+          "Serviceable Pin Codes",
+          "API Integration",
+          "One API. Many Uses",
+          "Email & SMS Notifications"
+        ],
+        "h4": [
+          "Highly Convenient",
+          "Faster Delivery Time",
+          "Lower Shipping Cost",
+          "Better Customer Satisfaction",
+          "Fship Fulfillment",
+          "Organized Operations",
+          "Automated Process",
+          "Tracking"
+        ],
+        "h5": [
+          "Get early Cash on Delivery Remittance",
+          "Maximum Coverage with 29000+ pincodes.",
+          "Flexible API That Meets Your Client's Needs",
+          "Get real-time updates, as soon as the products get shipped through multiple channels. Improve customer service with real-time shipment updates"
+        ]
+      },
+      "paragraphs": [
+        "Fship are leading enablers to Quick Commerce!",
+        "No need to choose one. Offer both prepaid & cash on delivery payment options.",
+        "Improve your cash flow. Scale your business faster with early COD remittance.",
+        "Do you have multiple warehouses or sell your products through various vendors? Add unlimited warehouses to simplify your logistics operations",
+        "we let you add all your pickup locations by uploading a bulk pickup sheet. Now, add as many pickup locations as you want! This feature is available in all our plans.",
+        "Get your product delivered at your customers doorstep by selecting the nearest pickup location to your buyer’s address. It helps in faster delivery by eliminating the extra in-transit time.",
+        "By selecting the nearest pickup location to the delivery location, you also reduce the overall shipping cost.",
+        "Build trust by going an extra mile for your customers",
+        "Ship at maximum coverage in just a few clicks, With extensive coverage of 29000+ pincodes.",
+        "With extensive coverage of 29000+ pincodes, you can reach out to every corner of the country. Double your sales by having a reach to every state and town.",
+        "API Integration refers to this seamless connectivity. Now stay connected with your store – at all times!",
+        "API Integration refers to this seamless connectivity that allows organizations to automate business processes, and enhance the sharing and embedding of data between various applications and systems. For instance, like Fship aggregates data from various Couriers by calling their APIs and push to your API system.",
+        "We’re amazed by the creative uses of our API. Here are some:",
+        "3PLs are always looking for an increased assortment of couriers for their clients. Our API gives them instant access without disrupting processes.",
+        "With a regular incoming order flow, follow a particular procedure for every shipment."
+      ]
+    },
+    {
+      "url": "https://fship.in/index.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Fship provides affordable eCommerce logistics and shipping aggregator services tailored for D2C sellers and dropshippers. Get the best courier service with competitive rates, manage your shipping manifest, and streamline your business with our affordable courier service solutions.",
+      "headings": {
+        "h1": [
+          "Your Shipment Our Commitment",
+          "How Fship Works",
+          "Our Prominent Features",
+          "We Are",
+          "Why Choose Us ?",
+          "Let’s see what our Client says",
+          "Our Trusted Courier Partners"
+        ],
+        "h2": [
+          "Trusted by Leading Brands"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": [
+          "Affordable",
+          "Customized Filters",
+          "AI Courier Allocation",
+          "Branded Tracking Page"
+        ]
+      },
+      "paragraphs": [
+        "Experience AI-enabled logistics solutions tailored to revolutionize your e-commerce business.",
+        "Discover why top brands choose Fship for their e-commerce logistic needs. Our seamless, reliable, and efficient shipping solutions empower businesses to reach their customers faster and smarter. Join the growing list of satisfied clients who trust us to deliver excellence every time.",
+        "At Fship, we are dedicated to transforming your Ecommerce shipping experience with our AI-based automated shipping aggregator designed to meet the unique needs of B2C and D2C sellers.",
+        "Our goal is to streamline your Ecommerce logistics, enhance your customer satisfaction, and help your business grow with our expert logistics service.",
+        "Fship offers logistic solutions designed to be budget-friendly without compromising on quality. We offer competitive rates to ensure you get the best and affordable courier service and the best value for your money.",
+        "Tailor your e-commerce logistic operations with our customizable filters, ensuring each shipment meets your specific needs. Our shipping solutions adapt to your e-commerce business requirements seamlessly.",
+        "Optimize your e-commerce delivery routes and reduce costs with our AI-driven courier allocation system. Experience faster, and smarter deliveries with advanced technology.",
+        "Enhance your customer experience with a seamless, branded White-Labeled tracking page that reflects your brand’s identity. Keep your customers informed and engaged throughout the e-commerce delivery process.",
+        "Hi I am Avantika Awasthi, founder of Adornments. Fship has been an invaluable shipping partner for my jewellery business. From courier selection to branded tracking, their platform makes it easy to manage shipments with best rates, and the timely deliveries and updates have helped me build strong trust with my customers. I highly recommend Fship for any D2C/ecommerce seller looking for safe, dependable, and seller-friendly logistics. Thank you for the truly amazing service experience.",
+        "We have been using Fship for almost 6 months now, and it has solved a lot of our problems that our customers were facing, especially with faster deliveries. With the product line that we work on, our customers usually place orders at the last moment, and it was very critical for us to deliver on time. The best part is that our customers are quite happy, and I think that Fship is giving good competition to its competitors, and we are quite satisfied. I highly recommend Fship to all the D2C founders and brands who want to try out new services and want to deliver their orders fast.",
+        "Hi, I'm Harsh, the founder of Zorb. I wanted to share my thoughts about my experience with Fship. They have always been helpful in terms of support, and services they have rendered to me. Their dedicated key account manager has timely updated my orders, have always listened to me in a friendly and patient way, I will definitely recommend Fship to my other friends who are in similar businesses.",
+        "Partnering with Fship has transformed the way we manage our logistics. Their commitment to timely deliveries, real-time updates, and operational efficiency has made a noticeable difference. They consistently deliver on promises, making them more than just a shipping provider. A special mention to our Account Manager, Deeksha Chaudhary—her professionalism, deep logistics knowledge, and proactive approach have been invaluable. With her support and Fship’s reliability, we’ve found a logistics partner we can truly count on.",
+        "Founder of Raja Rani Coaching",
+        "Hi, I’m Mehul Dudhat Co-Founder of Raja Rani Coaching Pvt. Ltd., and I want to share my experience with Fship. One thing I really appreciate is how easy they’ve made managing shipments. Their dashboard is simple to use, and their support team has always been there when we’ve needed help. It’s been a big relief having Fship on board as we grow. I’d definitely recommend them to any business looking for a reliable shipping partner."
+      ]
+    },
+    {
+      "url": "https://fship.in/terms-and-conditions.html",
+      "title": "TERMS AND CONDITIONS - eCommerce Logistics & Shipping Solutions",
+      "summary": "This website https://fship.in/ site is owned and operated by Fixfeels Technologies Private Limited (henceforth referred as the “Company” or “we” or “us” or “our” having its registered office at Hw 08 sector 70, Noida, Uttar Pradesh, 201301 India.",
+      "headings": {
+        "h1": [
+          "TERMS AND CONDITIONS"
+        ],
+        "h2": [
+          "Registration Eligibility",
+          "Your Account and Registration Responsibilities",
+          "Communications",
+          "User Content",
+          "Use of Website",
+          "Trademark, Copyright and Restriction on the use of Website Content",
+          "Other Dealings",
+          "Hyperlinks/Backlinks",
+          "Terms of Use of Services",
+          "Payment",
+          "Cancellation of order",
+          "Merchant Account Usage Conditions",
+          "Banned restricted products and services",
+          "Breach",
+          "Indemnity",
+          "Limitation of Liability",
+          "Force Majeure",
+          "Waiver",
+          "Assignment",
+          "Severability",
+          "Grievance Officer Contact"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "This website https://fship.in/ site is owned and operated by Fixfeels Technologies Private Limited (henceforth referred as the “Company” or “we” or “us” or “our” having its registered office at Hw 08 sector 70, Noida, Uttar Pradesh, 201301 India.",
+        "These Terms and Conditions are applicable to users of the Company’s website https://fship.in/ site (hereinafter referred to as “Website”). The user of the Website (henceforth referred as the “User” or “You” or “Your”) includes merchants, clients and service recipients of the Company (natural or legal person) registered with the Website and all of their employees and authorised users (“Merchant”) and/or unregistered guest users, end-customers.",
+        "These are standard terms and conditions (hereinafter referred to as “Terms and Conditions”) in form of electronic record in terms of Information Technology Act, 2000 and rules under as applicable and provisions to electronic records in various statutes as amended by the Information Technology Act, 2000. This electronic record does not require any physical or digital signatures.",
+        "By using the services and tools provided on the Website, it is deemed that You have read and accepted the terms and conditions contained herein. If You transact on the Website, You shall be subject to the policies that are applicable to the Website for such transaction. Use of the Website by You shall governed by these terms and conditions and shall constitute your binding obligations with the Company.",
+        "The Company provides various services to the Merchants and Users (“Services”) through the Website. The use of the Website for the Services provided by the Company to the Merchant are additionally governed by the service agreement and/or merchant agreement as may be separately executed between the Merchant and the Company from time to time. When the User (including Merchant) uses any of the Services provided by the Company through the Website, You will be subject to the rules, guidelines, policies, terms, and conditions applicable to such Services, and privacy policy of the Company, and they shall be deemed to be incorporated into this Terms and Conditions and shall be considered as an integral part of this Terms and Conditions.",
+        "The Company reserves the right, at its sole discretion, to change or modify these Terms and Conditions, from time to time without any obligations to inform You. It is your responsibility to check the Terms and Conditions periodically for changes. Your continued use of the Website following the posting of changes will mean that You have read and thereby accept and agree to the changes. As long as You comply with these Terms and Conditions, the Company grants You a personal, non-exclusive, non-transferable, limited right to enter and use the Website.",
+        "All rights including copyright, in this Website are owned by the Company or otherwise licensed to the Company. Any use of this Website or its contents, including copying or storing it in whole or part without the permission of the Company is prohibited.",
+        "ACCESSING, BROWSING OR OTHERWISE USING THE WEBSITE INDICATES YOUR AGREEMENT TO ALL THE TERMS AND CONDITIONS IN THIS AGREEMENT, SO PLEASE READ THIS AGREEMENT CAREFULLY BEFORE PROCEEDING.",
+        "Use of the Website is available only to persons who can enter into a legally binding contract under Indian Contract Act, 1872. Persons who are “incompetent to contract” within the meaning of the Indian Contract Act, 1872 including minors, un-discharged insolvents etc. are not eligible to use the Website. As a minor if You wish to use or transact on the Website, such use or transaction may be facilitated by your legal guardian or parents. The Company reserves the right to terminate and refuse to provide You with access to the Website if it is brought to its notice or if it is discovered that you are under the age of 18 years or are incompetent to contract as per applicable laws.",
+        "Fraud: Without limiting any other remedies, We may suspend or terminate Your membership account if We suspect that You (by conviction, settlement, insurance or escrow investigation, or otherwise) have engaged in fraudulent activity in connection with the Website.",
+        "If You are a Merchant to the Company registered with the Website, You shall be responsible for maintaining the confidentiality of your User ID and Password and You shall be responsible for all activities that occur under your User ID and Password. You agree that if You provide any information that is untrue, inaccurate, not current or incomplete or the Company has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, or not in accordance with this Terms and Conditions, then the Company has the right to indefinitely suspend or terminate or block access of your registration with the Website and refuse to provide You with access to the Website. You shall also be the sole owner of the Password and shall be responsible for the consequences arising out of disclosure of the Password and/or consequential unauthorized use of the material or content on the Website.",
+        "When You use the Website or send emails or other data, information or communication to the Company, You agree and understand that You are communicating with the Company through electronic records and You consent to receive communications via electronic records from the Company periodically and as and when required. The Company may communicate with You by email or by such other mode of communication, electronic, digital, or otherwise.",
+        "In order to provide efficient Services, the Merchant is required to provide certain information and data (including sensitive personal data or information) relating to the customer of the Merchant. The Merchant shall ensure that they have adequate consent and authority from its customer to share such data and information with the Company.",
+        "You shall not host, display, upload, modify, publish, transmit, update or share any information on the Website that:",
+        "The Company is under no obligation to review any messages, information or content (“Records”) provided by You on the Website, and the Company assumes no responsibility or liability relating to any such Records on the Website. Notwithstanding the above, the Company may from time to time monitor the Records on the Website and may decline to accept and/or remove any Records that contain any information inconsistence with this Terms and Conditions."
+      ]
+    },
+    {
+      "url": "https://fship.in/contact.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Need help with ecommerce shipping? Contact Fship today. We help D2C brands and ecommerce owners in India grow with reliable shipping services and cheap logistics tailored to your business needs.",
+      "headings": {
+        "h1": [
+          "Transform Your Shipping Experience with Fship",
+          "Contact Us",
+          "Fship's achievements over the years"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "Experience accurate deliveries, smarter logistics, and unmatched support. Your journey to seamless shipping starts here—contact us now!"
+      ]
+    },
+    {
+      "url": "https://fship.in/pricing.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Fship provides affordable eCommerce logistics and shipping aggregator services tailored for D2C sellers and dropshippers. Get the best courier service with competitive rates, manage your shipping manifest, and streamline your business with our affordable courier service solutions.",
+      "headings": {
+        "h1": [
+          "Right Prices, smooth Deliveries - Powered by Fship",
+          "Lite",
+          "₹30/0.5Kg",
+          "Advanced",
+          "₹28.5/0.5Kg",
+          "Professional",
+          "₹27.5/0.5Kg",
+          "Enterprise",
+          "Enterprise+",
+          "₹26.5/0.5Kg",
+          "Key Features to Elevate Your Business Operations",
+          "Our Trusted Courier Partners",
+          "Frequently Asked Questions"
+        ],
+        "h2": [
+          "What is e-commerce store integration, and how does it work with Fship?",
+          "Which e-commerce platforms can I integrate with Fship?",
+          "Can I assign specific couriers for different types of orders?",
+          "Will Fship provide real-time tracking updates to my customers?"
+        ],
+        "h3": [],
+        "h4": [
+          "Branded Tracking Page",
+          "Easy Channel Integration",
+          "Dedicated Account Manager",
+          "Custom Order Validation",
+          "AI-Based Courier Allocation",
+          "NDR Management"
+        ],
+        "h5": [
+          "Shipping starts @"
+        ]
+      },
+      "paragraphs": [
+        "Elevate your business with Fship and enjoy streamlined operations, faster deliveries, increased sales, and improved customer satisfaction.",
+        "Provide a seamless and personalized tracking experience that reflects your brand s identity.",
+        "Effortlessly connect all your sales channels for unified order management and streamlined operations.",
+        "Receive personalized support and expert guidance with a dedicated account manager for your business.",
+        "Ensure accuracy and efficiency with tailored order validation processes designed to meet your specific needs.",
+        "Optimize delivery routes and reduce costs with intelligent, AI-driven courier selection.",
+        "Effectively manage Non-Delivery Reports (NDR) to minimize failed deliveries and enhance customer satisfaction."
+      ]
+    },
+    {
+      "url": "https://fship.in/postship.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": []
+    },
+    {
+      "url": "https://fship.in/refund-policy",
+      "title": "Refund & Cancellation Policy - eCommerce Logistics & Shipping Solutions",
+      "summary": "If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our grievance officer/privacy team by sending a email to support@fship.in",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Refund & Cancellation Policy",
+          "Contact",
+          "An all-in-one eCommerce Solution for your shipping needs"
+        ],
+        "h3": [
+          "1. Account Closure:",
+          "2. Refund Process:",
+          "3. Service Modification or Termination:",
+          "4. Fraud Prevention:"
+        ],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our grievance officer/privacy team by sending a email to support@fship.in",
+        "Need help? Get in touch with us",
+        "Fship. 1018 10th floor, Galaxy blue Sapphire Plaza, Greater Noida west, Uttar Pradesh, 201009"
+      ]
+    },
+    {
+      "url": "https://fship.in/fshipbulkit.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Fship Bulkit simplifies bulk shipments with automated uploads, smart courier allocation, accurate billing, and real-time tracking for fast and efficient B2B logistics",
+      "headings": {
+        "h1": [
+          "Power Your B2B Shipments with Bulkit",
+          "Struggling with B2B Shipping Complexities?",
+          "Everything You Need for Hassle-Free Bulk Shipping",
+          "BulkShipping Made Simple",
+          "B2B Shipping, Finally Done Right",
+          "Learn More from Our Blogs",
+          "Some Trusted Courier Partners",
+          "Frequently Asked Questions"
+        ],
+        "h2": [
+          "Book Bulk Shipments in 3 Simple Steps",
+          "What types of B2B shipments can I send through Fship Bulkit?",
+          "Can I integrate my order system with Bulkit for bulk shipping?",
+          "How does courier selection work for B2B orders?"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": [
+          "Working with Local Transport, Having limited reach?",
+          "Unexpected weight charges draining your margins?",
+          "Facing ODA (Out-of-Delivery Area) Issues in B2B shipping?",
+          "Smart Courier Solution",
+          "Tracking",
+          "Wider Reach",
+          "Lowest Rates",
+          "ODA Management",
+          "Best Support",
+          "Appointment-Based Delivery",
+          "Smart Courier Selection",
+          "Weight Management",
+          "Pan-India Coverage",
+          "ePODs",
+          "1. Sync Your Orders",
+          "2. Match with the Right Carrier",
+          "3. Print. Pack. Ship.",
+          "How Fship Works: Guide to Seamless E-commerce Shipping Process",
+          "Consignor vs Consignee: What Every eCommerce Seller Should Know?",
+          "Trusted & Best Shipping Company for Ecommerce in India (2025)"
+        ]
+      },
+      "paragraphs": [
+        "From Partial Truck Load to Air Cargo—move heavy logistics across India with ease, efficiency, and total control from a single platform.",
+        "Weight disputes. COD delays. ODA headaches. If bulk shipping feels like a never-ending mess, youre not alone. That’s exactly what Fship fixes-with one smart dashboard that puts you back in control.",
+        "Bulkit connects you with 7+ national courier partners, enabling faster, pan-India delivery without relying on fragmented local networks.",
+        "Bulkit lets you track, verify, and resolve discrepancies easily—right from your dashboard. Say goodbye to revenue loss and manual follow-ups.",
+        "Fship Bulkit gives you courier options based on Out of Delivery (ODA) coverage, so you can avoid surprises and deliver everywhere, reliably.",
+        "From smart courier allocation to ODA management and unbeatable rates—Fship Bulkit is built to power every part of your B2B logistics.",
+        "Get the best-fit courier for every bulk shipment with Smart Allocation and real-time decisions.",
+        "Track every order from pickup to delivery with real time updates for you and your buyers.",
+        "Deliver across 24,000+ pincodes in India, including remote, rural, and ODA zones.",
+        "Ship smarter and save more with our lowest-in-category B2B shipping rates.",
+        "Handle remote deliveries with ease using our smart Out of Delivery Area routing and courier allocation.",
+        "From escalations to everyday queries, our support team has your back, always.",
+        "Solutions for Bulk Shipments",
+        "Say goodbye to hidden costs, delays, and limited coverage. Bulkit gives you total control over every bulk shipment.",
+        "Schedule bulk shipments to arrive exactly when your buyer’s ready."
+      ]
+    },
+    {
+      "url": "https://fship.in/life@fship.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Fship reflects a culture built on speed, ownership, and teamwork, where passionate people power smart shipping solutions, seamless last-mile delivery, and growth for D2C brands across India.",
+      "headings": {
+        "h1": [
+          "Fun, Games & Fship Vibes",
+          "From Booths to Breakthroughs",
+          "What Matters to You, Matters to Us",
+          "Turn your passion into fun. Join our team!"
+        ],
+        "h2": [
+          "Fun, Games & Fship Vibes"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "Check out our social media for more. ClickHere",
+        "Diving deep into industry trends and challenges in the panel discussion with Raju Kumar Sinha (CBO Fship), Adil Qadri (Founder, Qa ... Read more...",
+        "That's a wrap on an amazing experience at the India D2C Summit! Over the past 2 days, our team Fship had the pleasure of con... Read more...",
+        "Live from the YourStory Media D2C Carwaan powered by Fship! The energy is electric as we connect with trailblazing brands, Read more...",
+        "From idea-stage hustlers to scaling D2C giants — we met the boldest builders of extraordinary ideas and the future of eCom Read more...",
+        "A workplace that values enthusiasm, creativity and enjoyment in what they do. Be one of us!"
+      ]
+    },
+    {
+      "url": "https://fship.in/customvalidation.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Protect your D2C brand from fake or duplicate orders with Fship’s advanced order validation tools. Smart ecommerce shipping services designed for ecommerce owners in India looking to save costs and ensure safe deliveries with cheap logistics.",
+      "headings": {
+        "h1": [
+          "Custom Validation Rules for Smarter Shipping",
+          "Our Achievements",
+          "Custom Validation Rules",
+          "Perks of having Custom Validation Rules",
+          "Frequently Asked Questions"
+        ],
+        "h2": [
+          "What types of validation rules can I set for my shipment?",
+          "How does Custom Order Validation help reduce delivery failures?",
+          "Can I update or change my validation rules any time?"
+        ],
+        "h3": [
+          "Keyword",
+          "Order Validation",
+          "Address Quality"
+        ],
+        "h4": [],
+        "h5": [
+          "Filter Orders with Specific Keywords",
+          "Customize Keyword Lists",
+          "Improve Order Accuracy",
+          "Pre-Define Acceptance Criteria",
+          "Automate Rejections for Non-Compliance",
+          "Enhance Control Over Order Flow",
+          "Verify Address Accuracy",
+          "Customizable Address Checks",
+          "Reduce Delivery Failures",
+          "Prevent Fraudulent Orders",
+          "Customize Keyword Filters",
+          "Enhance Order Relevance",
+          "Automate Order Screening",
+          "Faster Order Processing",
+          "Reduce Manual Errors",
+          "Ensure Accurate Deliveries",
+          "Reduce Delivery-Related Costs",
+          "Improve Delivery Success Rate"
+        ]
+      },
+      "paragraphs": [
+        "Optimize your shipping with Fship's Custom Validation Rules. Automate order filtering to prevent fraud, reduce errors, and ensure smooth deliveries.",
+        "Streamline your shipping with tailored validation rules that filter out fraud, ensure accurate orders, and enhance delivery success rates..",
+        "Set rules to automatically reject orders containing predefined keywords, reducing the risk of fraudulent or irrelevant orders.",
+        "Easily update and manage your keyword lists to align with changing fraud patterns and shipping requirements.",
+        "By filtering out unwanted keywords, you ensure that only legitimate orders make it through, enhancing the efficiency of your E-commerce logistics.",
+        "Set specific criteria such as minimum order value or item categories to streamline the order acceptance process.",
+        "Automatically reject orders that do not meet your predefined standards, reducing manual intervention and errors.",
+        "Gain greater control over the types of orders you process, ensuring they align with your business needs and standards.",
+        "Implement rules to reject orders with incomplete or incorrect address details, ensuring better delivery success rates.",
+        "Tailor address validation rules to your preferences, such as excluding high-risk pin codes or regions known for delivery issues.",
+        "By filtering out orders with poor address quality, you minimize the risk of failed deliveries and improve overall shipping efficiency.",
+        "Automatically block orders containing suspicious or irrelevant keywords or pin codes, protecting your business from potential scams.",
+        "Easily update and adjust keyword lists to stay aligned with changing fraud patterns, ensuring flexibility and control.",
+        "Ensure that only valid and relevant orders come through, saving time and improving overall order management.",
+        "Automatically reject orders that don’t meet your predefined standards, reducing the risk of processing non-compliant orders."
+      ]
+    },
+    {
+      "url": "https://fship.in/nextday.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": []
+    },
+    {
+      "url": "https://fship.in/postship",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": []
+    },
+    {
+      "url": "https://fship.in/ordertracking.html",
+      "title": "Fship: eCommerce Shipping Aggregator - Best Courier Service",
+      "summary": "Track your ecommerce shipments in real time with Fship. Ideal for D2C brands and ecommerce owners in India who need transparent, reliable shipping services and cheap logistics support to keep customers informed.",
+      "headings": {
+        "h1": [
+          "Your Brand, Your Tracking –",
+          "Track Your Order",
+          "Know your order Status",
+          "Convert Every Delivery into a Brand Experience",
+          "Frequently Asked Questions"
+        ],
+        "h2": [
+          "Trusted by Leading Brands",
+          "Can I use my own domain for the branded tracking page?",
+          "How does a branded tracking page boost customer loyalty?",
+          "How does real-time tracking work with a branded tracking page?"
+        ],
+        "h3": [],
+        "h4": [
+          "Deliver Validation Transparency with Fship"
+        ],
+        "h5": []
+      },
+      "paragraphs": [
+        "Can’t Find Your AWB number?",
+        "Kindly check the SMS and Email of order confirmation for AWB numbers.",
+        "Discover why top brands choose Fship for their e-commerce logistic needs. Our seamless, reliable, and efficient shipping solutions empower businesses to reach their customers faster and smarter. Join the growing list of satisfied clients who trust us to deliver excellence every time."
+      ]
+    },
+    {
+      "url": "https://fship.in/refund-policy.html",
+      "title": "Refund & Cancellation Policy - eCommerce Logistics & Shipping Solutions",
+      "summary": "If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our grievance officer/privacy team by sending a email to support@fship.in",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Refund & Cancellation Policy",
+          "Contact",
+          "An all-in-one eCommerce Solution for your shipping needs"
+        ],
+        "h3": [
+          "1. Account Closure:",
+          "2. Refund Process:",
+          "3. Service Modification or Termination:",
+          "4. Fraud Prevention:"
+        ],
+        "h4": [],
+        "h5": []
+      },
+      "paragraphs": [
+        "If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our grievance officer/privacy team by sending a email to support@fship.in",
+        "Need help? Get in touch with us",
+        "Fship. 1018 10th floor, Galaxy blue Sapphire Plaza, Greater Noida west, Uttar Pradesh, 201009"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Hi I am Avantika Awasthi, founder of Adornments. Fship has been an invaluable shipping partner for my jewellery business. From courier selection to branded tracking, their platform makes it easy to manage shipments with best rates, and the timely deliveries and updates have helped me build strong trust with my customers. I highly recommend Fship for any D2C/ecommerce seller looking for safe, dependable, and seller-friendly logistics. Thank you for the truly amazing service experience."
+    },
+    {
+      "quote": "We have been using Fship for almost 6 months now, and it has solved a lot of our problems that our customers were facing, especially with faster deliveries. With the product line that we work on, our customers usually place orders at the last moment, and it was very critical for us to deliver on time. The best part is that our customers are quite happy, and I think that Fship is giving good competition to its competitors, and we are quite satisfied. I highly recommend Fship to all the D2C founders and brands who want to try out new services and want to deliver their orders fast."
+    },
+    {
+      "quote": "Hi, I'm Harsh, the founder of Zorb. I wanted to share my thoughts about my experience with Fship. They have always been helpful in terms of support, and services they have rendered to me. Their dedicated key account manager has timely updated my orders, have always listened to me in a friendly and patient way, I will definitely recommend Fship to my other friends who are in similar businesses."
+    },
+    {
+      "quote": "Founder of Raja Rani Coaching"
+    },
+    {
+      "quote": "Hi, I’m Mehul Dudhat Co-Founder of Raja Rani Coaching Pvt. Ltd., and I want to share my experience with Fship. One thing I really appreciate is how easy they’ve made managing shipments. Their dashboard is simple to use, and their support team has always been there when we’ve needed help. It’s been a big relief having Fship on board as we grow. I’d definitely recommend them to any business looking for a reliable shipping partner."
+    },
+    {
+      "quote": "Hi, I’m Avani Karda , Co-founder of Toolaah. Our experience with Fship has been really positive. Their team has been reliable and supportive from day one. The sales team guided me right from the start, and I haven’t faced any issues. The shipping process is easy, and we get real-time updates, which makes everything run smoothly. Fship has taken the stress out of logistics, letting us focus on growing our kids' apparel brand. I highly recommend Fship to other businesses looking for a better shipping experience."
+    },
+    {
+      "quote": "Greetings from Herbalaxe! We appreciate the excellent service and support from Fship. From the start, your team showed professionalism, helping us streamline logistics efficiently. The user-friendly platform, competitive pricing, and prompt issue resolution have made Fship more than a shipping provider—a true logistics partner. Special thanks to our SPOC, Nisha Katiyar, for her quick responses and professional guidance. We look forward to continuing this successful partnership and gladly recommend Fship."
+    },
+    {
+      "quote": "Hi, I’m Krish Chitroda, Founder of Artific Clothing Co., and I’d like to share my experience with Fship. One of the things that stands out is how their sales team has really helped us manage our shipments better. They’ve given us great advice and tips that have helped streamline our process and contribute to our business growth. The dashboard is also easy to use, which makes everything run smoothly. I recommend Fship to any business looking for a reliable partner to support their shipping needs."
+    }
+  ],
+  "courier_partners_list": [
+    {
+      "name": "Amazon Shipping",
+      "detail": "Amazon Shipping is a reliable courier partner known for efficient service, with 96% pick-up performance and 92%+ TAT adherence, ensuring timely and dependable deliveries."
+    },
+    {
+      "name": "Blue Dart Air",
+      "detail": "Blue Dart Air is renowned for its high standards in logistics, achieving up to 92% pick-up performance and 90%+ TAT adherence, ensuring consistent, timely, and reliable delivery solutions."
+    },
+    {
+      "name": "Blue Dart Express",
+      "detail": "Blue Dart Express ensures reliable and timely deliveries with 96%+ pick-up performance and 92%+ TAT adherence, leveraging advanced technology and a robust logistics network across India."
+    },
+    {
+      "name": "DTDC",
+      "detail": "DTDC, a leading logistics provider with 35+ years of expertise, delivers reliable solutions backed by advanced technology. Covering 7,000+ specialized pin codes, ensuring seamless delivery across India."
+    },
+    {
+      "name": "Delhivery",
+      "detail": "Delhivery, a leading logistics player in India, boasts impressive performance with 98% TAT adherence and consistently high delivery reliability, ensuring timely and efficient service."
+    },
+    {
+      "name": "ECOM",
+      "detail": "ECOM, prominent logistics provider, ensures reliable service with 90% pick-up performance and maintains a strong 91%+ TAT adherence across its platform, consistently meeting customer even in the remote pincodes."
+    },
+    {
+      "name": "EKART",
+      "detail": "EKART, leading logistics service , ensures 95% pick-up performance and boasts 90%+ TAT adherence, ensuring dependable and timely delivery across various shipping needs."
+    },
+    {
+      "name": "Shadowfax",
+      "detail": "Shadowfax delivers exceptional logistics services with 96% pick-up performance, 92%+ TAT adherence, and coverage across 8000+ specialized pin codes, ensuring reliable and timely deliveries for a wide range of shipments."
+    },
+    {
+      "name": "XpressBees",
+      "detail": "XpressBees is renowned for its efficient logistics services, with 95% pick-up performance and 92%+ TAT adherence, ensuring fast, reliable deliveries across India, including even the remotest regions."
+    }
+  ],
+  "pricing_plans": [
+    {
+      "plan": "Lite",
+      "starting_rate": "₹30/0.5Kg",
+      "url": "https://fship.in/pricing.html"
+    },
+    {
+      "plan": "Advanced",
+      "starting_rate": "₹28.5/0.5Kg",
+      "url": "https://fship.in/pricing.html"
+    },
+    {
+      "plan": "Professional",
+      "starting_rate": "₹27.5/0.5Kg",
+      "url": "https://fship.in/pricing.html"
+    },
+    {
+      "plan": "Enterprise",
+      "starting_rate": "₹27.5/0.5Kg",
+      "url": "https://fship.in/pricing.html"
+    },
+    {
+      "plan": "Enterprise+",
+      "starting_rate": "₹26.5/0.5Kg",
+      "url": "https://fship.in/pricing.html"
+    }
+  ],
+  "features_highlights": [
+    "Fship are leading enablers to Quick Commerce!",
+    "No need to choose one. Offer both prepaid & cash on delivery payment options.",
+    "Improve your cash flow. Scale your business faster with early COD remittance.",
+    "Do you have multiple warehouses or sell your products through various vendors? Add unlimited warehouses to simplify your logistics operations",
+    "we let you add all your pickup locations by uploading a bulk pickup sheet. Now, add as many pickup locations as you want! This feature is available in all our plans.",
+    "Get your product delivered at your customers doorstep by selecting the nearest pickup location to your buyer’s address. It helps in faster delivery by eliminating the extra in-transit time.",
+    "By selecting the nearest pickup location to the delivery location, you also reduce the overall shipping cost.",
+    "Build trust by going an extra mile for your customers",
+    "Ship at maximum coverage in just a few clicks, With extensive coverage of 29000+ pincodes.",
+    "With extensive coverage of 29000+ pincodes, you can reach out to every corner of the country. Double your sales by having a reach to every state and town."
+  ],
+  "leadership_mentions": [
+    {
+      "name": "Raju Kumar Sinha",
+      "role": "CBO Fship"
+    }
+  ],
+  "stats": {
+    "serviceable_pincodes": "29000+",
+    "bulkit_pincodes": "24000+",
+    "sdd_ndd_cities": "30+",
+    "bulkit_courier_partners": "7+",
+    "sdd_ndd_courier_partners": "5+"
+  },
+  "integrations": {
+    "ecommerce_platforms": [
+      "Shopify",
+      "WooCommerce",
+      "Unicommerce",
+      "Clickpost"
+    ],
+    "sales_channels_mentioned": [
+      "Shopify",
+      "WooCommerce",
+      "EasyEcom",
+      "Amazon"
+    ]
+  },
+  "service_pages": {
+    "custom_validation": {
+      "url": "https://fship.in/customvalidation.html",
+      "title": "Custom Validation Rules for Smarter Shipping",
+      "summary": "Protect your D2C brand from fake or duplicate orders with Fship’s advanced order validation tools. Smart ecommerce shipping services designed for ecommerce owners in India looking to save costs and ensure safe deliveries with cheap logistics."
+    },
+    "branded_tracking": {
+      "url": "https://fship.in/brandedTrackingPage.html",
+      "title": "Branded Tracking Page",
+      "summary": "Fship provides affordable eCommerce logistics and shipping aggregator services tailored for D2C sellers and dropshippers. Get the best courier service with competitive rates, manage your shipping manifest, and streamline your business with our affordable courier service solutions."
+    },
+    "bulk_order_shipping": {
+      "url": "https://fship.in/bulkordershipping.html",
+      "title": "Effortless Bulk Order Shipping",
+      "summary": "Ship high volumes with ease using Fship’s bulk order shipping solution. Designed for growing D2C brands and ecommerce owners in India who want cheap logistics and seamless ecommerce shipping at scale."
+    },
+    "fship_bulkit": {
+      "url": "https://fship.in/fshipbulkit.html",
+      "title": "Power Your B2B Shipments with Bulkit",
+      "summary": "Fship Bulkit simplifies bulk shipments with automated uploads, smart courier allocation, accurate billing, and real-time tracking for fast and efficient B2B logistics"
+    },
+    "sdd_ndd": {
+      "url": "https://fship.in/sameday-nextday-delivery.html",
+      "title": "Same Day or Next Day Deliveries",
+      "summary": "Fship enables quick delivery with Same-Day and Next-Day shipping solutions; lightning-fast delivery, reliable fulfilment, and real-time tracking for growing D2C brands."
+    },
+    "order_tracking": {
+      "url": "https://fship.in/ordertracking.html",
+      "title": "Track Your Order",
+      "summary": "Track your ecommerce shipments in real time with Fship. Ideal for D2C brands and ecommerce owners in India who need transparent, reliable shipping services and cheap logistics support to keep customers informed."
+    },
+    "rate_calculator": {
+      "url": "https://fship.in/ratecalculator.html",
+      "title": "Calculate your Rates",
+      "summary": "Protect your D2C brand from fake or duplicate orders with Fship’s advanced order validation tools. Smart ecommerce shipping services designed for ecommerce owners in India looking to save costs and ensure safe deliveries with cheap logistics."
+    }
+  },
+  "navigation": {
+    "about": [
+      "Contact Us",
+      "Life @ Fship",
+      "About Us"
+    ],
+    "services": [
+      "Custom Validation",
+      "Branded Tracking Page",
+      "Bulk Order Shipping",
+      "Fship Bulkit",
+      "SDD or NDD Deliveries"
+    ],
+    "products": [
+      "Domestic Shipping",
+      "Next Day / Same Day Delivery",
+      "Postship",
+      "Tracking",
+      "B2B & Bulk Shipping",
+      "Fship Fulfillment"
+    ],
+    "resources": [
+      "API Integration",
+      "Blogs",
+      "Rate calculator",
+      "Track Orders",
+      "Pricing",
+      "Partners"
+    ],
+    "company_links": [
+      "https://fship.in/about-us",
+      "https://fship.in/contact.html",
+      "https://fship.in/life@fship.html",
+      "https://fship.in/terms-and-conditions.html",
+      "https://fship.in/privacy-policy",
+      "https://fship.in/refund-policy",
+      "https://fship.in/documents/fship_sop.pdf"
+    ]
+  },
+  "policies": {
+    "privacy_policy_url": "https://fship.in/privacy-policy",
+    "terms_url": "https://fship.in/terms-and-conditions.html",
+    "refund_policy_url": "https://fship.in/refund-policy",
+    "sop_pdf_url": "https://fship.in/documents/fship_sop.pdf",
+    "terms_registered_office": "Hw 08 sector 70, Noida, Uttar Pradesh, 201301 India",
+    "privacy_contact": "support@fship.in"
+  }
+}
