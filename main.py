@@ -20,6 +20,7 @@ from config import (
     AZURE_OPENAI_KEY,
     AZURE_SPEECH_KEY,
     AZURE_SPEECH_REGION,
+    CORS_ORIGINS,
     TTS_VOICE,
 )
 from script_loader import DEFAULT_SCRIPT_PATH, ScriptStep, load_script_steps
@@ -28,9 +29,15 @@ from tts_text import build_ssml
 
 app = FastAPI(title="Aarti Voice Assistant API")
 
+_cors_origins = (
+    [o.strip() for o in CORS_ORIGINS.split(",") if o.strip()]
+    if CORS_ORIGINS
+    else ["*"]
+)
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=_cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

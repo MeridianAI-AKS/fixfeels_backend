@@ -806,5 +806,109 @@
     "session_id": "be893448-ebb9-4081-b274-cbe61ec41cfb",
     "question": "Aur aapki preference zyada Air shipping ki rehti hai ya Surface?",
     "response": "मैं तो एयर शिपिंग यूज़ करती हूँ।"
+  },
+  {
+    "id": "20f1350a-1f00-437e-a946-cf3d276ab429",
+    "timestamp": "2026-07-01T07:01:53.622906+00:00",
+    "source": "script",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "Kya aap apne business ke liye shipping solutions explore kar rahe hain?",
+    "response": "नहीं, मेरे को एक्सप्लोर नहीं कर रही हूँ।"
+  },
+  {
+    "id": "7b66e111-fefe-426d-860c-31c31bba4c64",
+    "timestamp": "2026-07-01T07:02:13.833446+00:00",
+    "source": "general",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "आप मुझे कुछ सजेस्ट कर सकते हो? क्योंकि आपकी कंपनी में किन कंसे है? लाइक ऐफ़ शिप क्या देखता है जानें।",
+    "response": "Ji Ma’am, Fship ek AI-enabled e-commerce shipping aggregator hai jo B2C aur D2C sellers ke liye reliable domestic shipping, COD, tracking, aur API integration provide karta hai. Humare trusted courier partners mein Amazon Shipping, Blue Dart, DTDC, Delhivery, ECOM, EKART, Shadowfax, aur XpressBees shamil hain Aapke monthly approx orders kitne rehte hain?"
+  },
+  {
+    "id": "c89e2723-6802-40a0-80f8-cbc41ddd3a65",
+    "timestamp": "2026-07-01T07:02:59.874010+00:00",
+    "source": "script",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "Aapke monthly approx orders kitne rehte hain?",
+    "response": "काम नहीं कर रहे हो अच्छा तो अभी मतलब अगर मैं आपसे बोलूं की मुझे आपसे वो लेना है, क्या कहता है केस शिप लेनी है ये तो आप मुझे कोई ह्यूमन एजेंट या कुछ ऐसे कॉल ट्रांसफर वगैरह करवा सकते हो क्या? या किसी से कोई नंबर दे सकते हो उससे मैं डायरेक्ट कनेक्शन कर सकूँ।"
+  },
+  {
+    "id": "5fcb4810-25b0-4cbf-8f65-a73a6e44a85d",
+    "timestamp": "2026-07-01T07:03:02.707938+00:00",
+    "source": "general",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "काम नहीं कर रहे हो अच्छा तो अभी मतलब अगर मैं आपसे बोलूं की मुझे आपसे वो लेना है, क्या कहता है केस शिप लेनी है ये तो आप मुझे कोई ह्यूमन एजेंट या कुछ ऐसे कॉल ट्रांसफर वगैरह करवा सकते हो क्या? या किसी से कोई नंबर दे सकते हो उससे मैं डायरेक्ट कनेक्शन कर सकूँ।",
+    "response": "Ji Ma’am, aap humare support team se direct contact kar sakti hain. Unka number hai +91 9999795111 aur email hai support@fship.in. Timing Monday to Saturday, 10 AM–7 PM. Bilkul Abhi shipping ke liye aap kaunsi courier services use kar rahe hain?"
+  },
+  {
+    "id": "fae440b7-df7f-4069-a4b4-fe980d5ae05c",
+    "timestamp": "2026-07-01T07:03:32.089629+00:00",
+    "source": "general",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "आप नंबर फिर से मुझे बता सकते हो क्या नंबर समझ नहीं आया?",
+    "response": "Ji Ma’am, humare support team ka number hai +91 9999795111 aur email hai support@fship.in. Timing Monday to Saturday, 10 AM–7 PM Abhi shipping ke liye aap kaunsi courier services use kar rahe hain?"
+  },
+  {
+    "id": "1772d7b4-0038-457c-a93b-93c20b391b4f",
+    "timestamp": "2026-07-01T07:03:55.636750+00:00",
+    "source": "general",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "कितने टाइम्स ना बोला था आपने?",
+    "response": "Ma’am, Fship ka support timing hai Monday to Saturday, subah 10 baje se shaam 7 baje tak. Abhi shipping ke liye aap kaunsi courier services use kar rahe hain Abhi shipping ke liye aap kaunsi courier services use kar rahe hain?"
+  },
+  {
+    "id": "0f03d980-db66-42fe-b0b5-d3db8a604560",
+    "timestamp": "2026-07-01T07:04:21.821756+00:00",
+    "source": "general",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "अब आप आप मुझे भी एकर नंबर नंबर फिर से बोल सकते हो क्या? मुझे नंबर समझ नहीं आ रहा है आपका थोड़ा धीरे धीरे।",
+    "response": "Ji Ma’am, bilkul. Humare support team ka number hai +91 9999795111. Timing hai Monday to Saturday, subah 10 baje se shaam 7 baje tak Abhi shipping ke liye aap kaunsi courier services use kar rahe hain?"
+  },
+  {
+    "id": "cbece12b-e4ee-498e-82ac-c9077ed6d0a2",
+    "timestamp": "2026-07-01T07:04:44.400151+00:00",
+    "source": "script",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "Abhi shipping ke liye aap kaunsi courier services use kar rahe hain?",
+    "response": "आप 10 टु 7 तो बोल पा रहे हो, है ना? 9999 क्यों कर रहे हो?"
+  },
+  {
+    "id": "09cff044-da18-4a91-971b-aeb411875910",
+    "timestamp": "2026-07-01T07:04:51.532222+00:00",
+    "source": "general",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "999111 इंग्लिश में ही बात कर लो।",
+    "response": "Sure Ma’am, our support team number is +91 9999795111, available Monday to Saturday, 10 AM to 7 PM. Let me know if you need anything else!"
+  },
+  {
+    "id": "8cac0561-8e84-4e59-b607-7816fa48dbae",
+    "timestamp": "2026-07-01T07:05:15.803449+00:00",
+    "source": "script",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "Aur aapki preference zyada Air shipping ki rehti hai ya Surface?",
+    "response": "सरफेस।"
+  },
+  {
+    "id": "a6c3293d-e56c-4fbe-909d-71d2ed0e832f",
+    "timestamp": "2026-07-01T07:05:40.596327+00:00",
+    "source": "general",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "कौनसी कंपनी बताई थी, किस कंपनी से हो आप?",
+    "response": "Hum Fship se hain, jo ek AI-enabled e-commerce shipping aggregator hai aur Fixfeels Technologies Pvt. Ltd. ka product hai. Aap aur details ke liye visit kar sakte hain: https://fship.in/."
+  },
+  {
+    "id": "e62894b7-10bb-49a3-8926-2cf49d2944b5",
+    "timestamp": "2026-07-01T07:06:00.463005+00:00",
+    "source": "general",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "ओके, थैंक यू।",
+    "response": "Ji Ma’am, aapka samay dene ke liye dhanyawad. Agar koi aur madad chahiye ho, toh support team se contact kar sakti hain: +91 9999795111."
+  },
+  {
+    "id": "8b9cf895-d575-4f32-a221-0f1463d9712d",
+    "timestamp": "2026-07-01T07:06:19.906655+00:00",
+    "source": "general",
+    "session_id": "cbbf1402-ed94-4e45-b404-b9c9866a5b88",
+    "question": "ठीक है।",
+    "response": "Ji Ma’am, dhanyawad! Agar aapko aur madad chahiye ho, toh support team se contact kar sakti hain: +91 9999795111."
   }
 ]

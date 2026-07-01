@@ -26,3 +26,7 @@ AZURE_SPEECH_REGION: str = _require("AZURE_SPEECH_REGION")
 AZURE_OPENAI_KEY: str = _require("AZURE_OPENAI_KEY")
 AZURE_OPENAI_ENDPOINT: str = _require("AZURE_OPENAI_ENDPOINT")
 TTS_VOICE: str = (os.getenv("TTS_VOICE") or "en-IN-Aarti:DragonHDLatestNeural").strip()
+
+# Comma-separated origins for static frontend, e.g. https://myapp.azurestaticapps.net
+# Leave empty to allow all origins (fine for dev).
+CORS_ORIGINS: str = (os.getenv("CORS_ORIGINS") or "").strip()
