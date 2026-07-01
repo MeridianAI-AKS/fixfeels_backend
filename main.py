@@ -37,7 +37,7 @@ _cors_origins = (
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=_cors_origins,
+    allow_origins=["https://white-forest-048020600.7.azurestaticapps.net","http://localhost:5173"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
